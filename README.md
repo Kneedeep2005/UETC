@@ -91,7 +91,7 @@ The canonical, citable snapshot of this repository is the release **`uetcref-v1.
 
 ## Documents
 
-### `papers/UETC_Overview_v1.0.pdf`
+### `papers/UETC_Overview_v1.0.md`
 A compact, citable overview intended for readers asking:
 - “Where is the paper?”
 - “What exactly is UETC claiming?”
