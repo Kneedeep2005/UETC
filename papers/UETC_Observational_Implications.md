@@ -59,3 +59,64 @@ An observational domain is considered relevant to UETC when:
 - geometric organization plausibly influences observed behavior.
 
 Domains lacking these features are considered outside the framework’s effective scope.
+
+## 2. Classes of Observational Domains
+
+This section categorizes observational domains in which the UETC framework may be meaningfully applied.
+
+The categories are organized by scale and by the prominence of electromagnetic field structure and propagation effects.
+
+### 2.1 Laboratory and Controlled Systems
+
+Laboratory-scale systems provide environments in which electromagnetic fields, geometry, and propagation behavior can be directly manipulated and measured.
+
+Relevant examples include:
+- confined plasma configurations,
+- waveguides and resonant cavities,
+- magnetically structured laboratory plasmas.
+
+These systems offer high experimental control but limited scale, making them useful for testing structural principles rather than large-scale implications.
+
+### 2.2 Planetary and Near-Planetary Environments
+
+Planetary environments introduce naturally occurring electromagnetic structures influenced by rotation, internal dynamics, and external fields.
+
+Examples include:
+- planetary magnetospheres,
+- radiation belts,
+- ionospheric and magnetospheric coupling regions.
+
+These domains provide intermediate-scale systems where geometry and propagation effects can be studied with in situ and remote measurements.
+
+### 2.3 Stellar and Heliospheric Systems
+
+Stellar environments exhibit large-scale electromagnetic organization driven by rotation, plasma dynamics, and sustained field generation.
+
+Relevant structures include:
+- stellar magnetic loops,
+- heliospheric boundary regions,
+- large-scale current sheets and field reversals.
+
+Such systems allow evaluation of UETC principles at scales where field geometry and propagation effects are both pronounced and observable.
+
+### 2.4 Galactic and Extragalactic Structures
+
+At the largest scales, electromagnetic fields interact with plasma and matter distributions over extended regions.
+
+Potentially relevant observations include:
+- organized magnetic field structures,
+- large-scale outflows and lobes,
+- propagation anomalies across extended distances.
+
+Interpretation at these scales is necessarily indirect and must be approached cautiously, with careful attention to alternative explanations.
+
+### 2.5 Domains of Limited Applicability
+
+Certain observational domains are expected to provide little insight into UETC.
+
+These include systems where:
+- electromagnetic field structure is negligible,
+- propagation effects are dominated by non-field-mediated processes,
+- or geometric organization plays no discernible role.
+
+Such domains are not treated as tests of the framework.
