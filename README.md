@@ -46,24 +46,44 @@ Where:
 
 ## Repository Map
 
+This repository is organized to separate conceptual foundations, observational interpretation, and supporting context. Use the links below to navigate directly to the relevant materials.
 
-UETC/
-├── README.md
-├── papers/
-│ ├── UETC_Overview_v1.0.pdf
-│ ├── UETC_Core_Framework.md
-│ └── UETC_Observational_Implications.md
-├── figures/
-│ ├── toroidal_scales.png
-│ ├── heliosphere_structure.png
-│ └── galaxy_em_flows.png
-├── appendices/
-│ ├── terminology.md
-│ ├── historical_context.md
-│ └── comparison_standard_models.md
-├── citations/
-│ └── references.bib
-└── LICENSE
+### Core Documents
+
+- **Overview (entry point)**  
+  [`papers/UETC_Overview_v1.0.pdf`](papers/UETC_Overview_v1.0.pdf)  
+  A compact, citable overview answering “where is the paper?”, defining scope, assumptions, and boundaries.
+
+- **Core Framework**  
+  [`papers/UETC_Core_Framework.md`](papers/UETC_Core_Framework.md)  
+  Formal definitions, propagation parameterization, geometric structure, and falsifiability criteria.
+
+- **Observational Implications**  
+  [`papers/UETC_Observational_Implications.md`](papers/UETC_Observational_Implications.md)  
+  Expected signatures, observational constraints, and competing interpretations.
+
+### Figures
+
+- [`figures/`](figures/)  
+  Conceptual and observational schematics illustrating toroidal geometry, heliospheric structure, and large-scale electromagnetic organization.
+
+### Appendices
+
+- **Terminology**  
+  [`appendices/terminology.md`](appendices/terminology.md)
+
+- **Historical Context**  
+  [`appendices/historical_context.md`](appendices/historical_context.md)
+
+- **Comparison to Standard Models**  
+  [`appendices/comparison_standard_models.md`](appendices/comparison_standard_models.md)
+
+### Citations
+
+- **Consolidated bibliography**  
+  [`citations/references.bib`](citations/references.bib)
+
+The canonical, citable snapshot of this repository is the release **`uetcref-v1.0`**.
 
 
 ## Documents
