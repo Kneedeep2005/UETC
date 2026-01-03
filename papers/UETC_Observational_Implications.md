@@ -289,3 +289,18 @@ Negative or null results are considered informative.
 Consistent absence of expected structural or propagation signatures in relevant domains would constrain or invalidate aspects of the framework.
 
 Such outcomes are treated as necessary feedback rather than contradictions.
+
+## 6. Summary and Transition
+
+This document has outlined the observational implications that follow from the UETC core framework.
+
+No claim of confirmation or exclusivity is made. Instead, the focus has been on identifying where the framework would be relevant, what structural and propagation patterns would be expected, and how such patterns could be evaluated alongside existing explanations.
+
+The intent is to provide a disciplined interpretive guide rather than a catalog of claimed successes.
+
+Subsequent repository components expand on this material by:
+- presenting representative figures illustrating structural concepts,
+- documenting terminology and historical context,
+- and consolidating references to observational and theoretical literature.
+
+Readers are encouraged to evaluate all implications presented here in light of alternative models, measurement limitations, and clearly stated failure modes.
