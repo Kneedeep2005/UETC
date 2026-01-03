@@ -312,12 +312,36 @@ UETC remains open to refinement, challenge, and partial invalidation as addition
 
 ## 9. References
 
-This overview draws on established literature in classical electrodynamics, plasma physics, and astrophysical observation, as well as on original organizational work developed within the UETC framework.
+This overview is informed by established work in classical electrodynamics, plasma physics, and observational astrophysics, as well as by original organizational analysis developed within the UETC framework.
 
-A consolidated and maintained bibliography is provided in the repository at:
+Rather than duplicating references across documents, UETC maintains a consolidated bibliography to ensure consistency and version control.
+
+### Canonical Bibliography
+
+The authoritative reference list for this repository is maintained at:
 
 `citations/references.bib`
 
-That file serves as the authoritative reference list for all UETC documents, including the Core Framework, Observational Implications, and appendices.
+This file is shared across:
+- the Overview,
+- the Core Framework,
+- the Observational Implications document,
+- and supporting appendices.
 
-Individual documents reference this shared bibliography to ensure consistency and to avoid duplication.
+### Representative Source Domains
+
+The consolidated bibliography includes sources spanning:
+
+- Classical electromagnetism and field theory  
+  (e.g., Maxwellian electrodynamics, wave propagation in media)
+- Plasma physics and magnetohydrodynamics  
+  (e.g., field-aligned currents, boundary layers, stability)
+- Heliospheric and astrophysical observations  
+  (e.g., magnetospheres, large-scale field structure)
+- Measurement and propagation effects in structured media
+
+These references provide contextual grounding rather than direct endorsement of the UETC framework.
+
+### Citation Guidance
+
+Readers should cite the repository release and the Overview document as described in the README. Individual references within `references.bib` may be cited independently where appropriate.
