@@ -99,6 +99,8 @@ Relevant structures include:
 
 Such systems allow evaluation of UETC principles at scales where field geometry and propagation effects are both pronounced and observable.
 
+A schematic overview of heliospheric structure is provided in Figure 2.
+
 ### 2.4 Galactic and Extragalactic Structures
 
 At the largest scales, electromagnetic fields interact with plasma and matter distributions over extended regions.
