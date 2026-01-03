@@ -213,6 +213,13 @@ Independent researcher
 Retired U.S. Coast Guard (Operations, SAR, communications)  
 Publisher: Unified Field Press
 
+## Author Context
+
+The UETC framework is developed from a first-principles and observational perspective, informed by professional experience in operations, systems reliability, and communications rather than by formal academic appointment.
+
+This work is presented as an independent research framework intended for technical scrutiny. Evaluation should be based on internal consistency, clarity of definitions, and correspondence with observation, not on author affiliation.
+
+
 ## Contact / Notes
 
 If you are evaluating UETC critically, the most useful contributions in this phase are:
