@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+type: software
+title: "Unified Electromagnetic Toroidal Cosmology (UETC)"
+version: "uetcref-v1.0"
+date-released: 2026-01-03
+authors:
+  - family-names: Beckman
+    given-names: Gregory A.
+    affiliation: Independent Researcher
+repository-code: "https://github.com/Kneedeepp2005/UETC"
+url: "https://github.com/Kneedeepp2005/UETC"
+license: MIT
+keywords:
+  - electromagnetism
+  - plasma physics
+  - cosmology
+  - field theory
+  - astrophysics
+  - research framework
