@@ -120,3 +120,57 @@ These include systems where:
 - or geometric organization plays no discernible role.
 
 Such domains are not treated as tests of the framework.
+
+## 3. Expected Structural Signatures
+
+This section outlines structural patterns that would be expected in systems where the UETC framework is applicable.
+
+These signatures are presented as qualitative expectations rather than definitive predictions.
+
+### 3.1 Closed-Loop and Toroidal Organization
+
+In systems where electromagnetic field structure is dominant, UETC anticipates a tendency toward closed-loop or toroidal organization.
+
+Observable manifestations may include:
+- looped or ring-like field configurations,
+- persistent circulation patterns,
+- symmetry around a central axis or region.
+
+The absence of such structures in a given system would weigh against the applicability of the framework in that context.
+
+### 3.2 Layered or Shell-Like Structure
+
+Structured fields are expected to produce regions of differing effective density or propagation behavior.
+
+This may appear observationally as:
+- layered boundaries,
+- shell-like regions with distinct properties,
+- transition zones where propagation characteristics change measurably.
+
+Such layering is not assumed to be perfectly discrete and may be gradual or irregular.
+
+### 3.3 Propagation Anisotropy
+
+If propagation behavior depends on local field geometry, directional dependence may be observable.
+
+Potential indicators include:
+- direction-dependent time delays,
+- asymmetric dispersion effects,
+- preferential propagation paths aligned with field structure.
+
+Isotropic propagation in environments where strong field structure is present would challenge this expectation.
+
+### 3.4 Correlation Between Structure and Propagation Effects
+
+UETC anticipates that observed propagation anomalies, where present, will correlate spatially with identifiable field structures.
+
+Lack of correlation between structure and propagation behavior would weaken the framework’s explanatory value.
+
+### 3.5 Absence as Informative Outcome
+
+The absence of expected structural signatures is treated as informative rather than anomalous.
+
+Such absence may indicate:
+- dominance of other physical mechanisms,
+- insufficient measurement resolution,
+- or inapplicability of UETC to the system under consideration.
