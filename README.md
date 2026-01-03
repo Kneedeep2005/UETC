@@ -1,3 +1,5 @@
+[![UETC Release](https://img.shields.io/badge/release-uetcref--v1.0-blue)](https://github.com/Kneedeepp2005/UETC/releases/tag/uetcref-v1.0)
+
 # Unified Electromagnetic Toroidal Cosmology (UETC)
 
 Canonical technical reference for **Unified Electromagnetic Toroidal Cosmology (UETC)**, an independent, first-principles framework for interpreting structure and propagation across scales using toroidal electromagnetic geometry, density-layering, and observational reinterpretation.
