@@ -194,3 +194,61 @@ UETC treats cross-scale correspondence as suggestive and contextual rather than 
 The recurrence of similar organizational features motivates the use of compact representations that summarize relationships between geometry, propagation, and effective density.
 
 The following section introduces such a unified expression as a descriptive summary of the framework, not as a fundamental law.
+
+## 6. Unified Structural Expression
+
+The preceding sections have introduced the core conceptual elements of the UETC framework, including structured electromagnetic fields, effective propagation behavior, toroidal geometry, and cross-scale organization. In this section, these elements are brought together in a compact, unified representation.
+
+### 6.1 Purpose of a Unified Expression
+
+The purpose of introducing a unified expression is not to assert a new fundamental law or to replace established field equations. Instead, it provides a concise way to summarize how geometry, propagation, and energy flow are related within the UETC framework.
+
+Such summary expressions are common in physics when a framework seeks to organize multiple interacting concepts without prescribing full dynamics at every scale.
+
+### 6.2 Framing of the Expression
+
+The following expression is introduced as a compact summary of relationships discussed throughout this overview. It is not proposed as a fundamental field equation, nor as a modification of established physical laws. Instead, it serves as a unified descriptive representation linking geometric structure, effective propagation behavior, and energy flow within the UETC framework.
+
+### 6.3 Unified Structural Expression (Summary Form)
+
+In UETC, the structural relationships between electromagnetic geometry, propagation behavior, and energy flow may be summarized schematically as:
+
+\[
+\mathcal{U} \;\sim\; \mathcal{G} \,\otimes\, u(x) \,\otimes\, \mathcal{E}
+\]
+
+where:
+
+- \( \mathcal{G} \) represents the geometric organization of the electromagnetic field, including closure, symmetry, and topology,
+- \( u(x) \) is the effective propagation parameter previously defined,  
+  \[
+  u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2,
+  \]
+- \( \mathcal{E} \) denotes electromagnetic energy flow and distribution, including field energy density and transport.
+
+The symbol \( \otimes \) is used here to indicate structural coupling rather than a specific mathematical operator.
+
+### 6.4 Interpretation of Terms
+
+Each term in the unified expression corresponds to quantities already introduced conceptually:
+
+- Geometry (\( \mathcal{G} \)) provides the structural context within which fields organize and persist.
+- The propagation parameter (\( u(x) \)) captures how local structure and effective density influence observable transmission behavior.
+- Energy flow (\( \mathcal{E} \)) reflects how electromagnetic energy is stored, circulated, and transported within the structured environment.
+
+The expression emphasizes that none of these elements is treated as independent in strongly structured systems.
+
+### 6.5 Scope and Limitations
+
+This unified expression is intentionally schematic. It does not specify dynamics, boundary conditions, or governing equations at a detailed level. Its role is to organize relationships, not to compute outcomes.
+
+Any quantitative application of UETC requires:
+- consistency with classical electrodynamics and conservation laws,
+- explicit definition of geometry and boundary conditions,
+- observational grounding of effective propagation behavior.
+
+Formal derivations, extensions, and specialized formulations are developed in the Core Framework and supporting appendices, not in this overview.
+
+### 6.6 Role Within the Overview
+
+Within this document, the unified expression functions as a conceptual anchor. It makes explicit how the various elements of the framework relate to one another, while leaving room for refinement, constraint, or partial invalidation as additional analysis is performed.
