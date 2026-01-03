@@ -228,5 +228,55 @@ Identifying such boundaries is considered a necessary part of evaluating the fra
 
 Within UETC, toroidal geometry is treated as a structural outcome, not a universal requirement.
 
+## 5. Falsifiability, Constraints, and Failure Modes
+
+This section outlines the conditions under which the UETC framework would be considered unsupported, incomplete, or inapplicable.
+
+Explicit identification of failure modes is treated as essential to the framework’s evaluation.
+
+### 5.1 Falsifiability Criteria
+
+UETC would be challenged or falsified if observations demonstrate that:
+
+- propagation behavior cannot be consistently described using an effective parameter of the form \( u(x) \),
+- observed propagation effects show no correlation with field structure or density variation,
+- closed-loop or toroidal configurations are not favored under conditions where stability arguments predict them.
+
+Failure in any of these areas would require revision or abandonment of core assumptions.
+
+### 5.2 Structural Constraints
+
+The framework is constrained by existing, well-tested physical principles, including:
+
+- conservation of energy and momentum,
+- established electromagnetic theory,
+- empirical limits on propagation behavior.
+
+Any formulation of UETC that violates these constraints is considered invalid.
+
+### 5.3 Observational Non-Support
+
+UETC does not require confirmation across all systems.
+
+However, the framework would be weakened if:
+- proposed structural explanations consistently fail to align with observed field geometries,
+- predicted propagation trends are contradicted by high-confidence measurements,
+- alternative explanations account for observations more simply and consistently.
+
+### 5.4 Domain of Failure
+
+UETC is expected to fail or lose relevance in domains where:
+- electromagnetic field structure plays a negligible role,
+- propagation is dominated by non-field-mediated processes,
+- or system behavior is adequately described without invoking geometric or density considerations.
+
+Such failures are not treated as contradictions, but as indicators of limited applicability.
+
+### 5.5 Role of Ongoing Refinement
+
+Because UETC is presented as a working framework, refinement, constraint tightening, and even partial invalidation are anticipated outcomes of further analysis.
+
+Persistence of the framework depends on its ability to remain consistent with observation while offering explanatory or organizational value beyond existing descriptions.
+
 Not all systems are assumed to be toroidal.  
 Rather, toroidal configurations are emphasized where they arise naturally and demonstrably from field organization and stability considerations.
