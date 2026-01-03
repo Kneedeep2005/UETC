@@ -170,6 +170,64 @@ Lack of correlation between structure and propagation behavior would weaken the 
 
 The absence of expected structural signatures is treated as informative rather than anomalous.
 
+## 4. Propagation Effects and Observables
+
+This section describes observable effects that may arise in systems where propagation behavior is influenced by structured electromagnetic environments, as described by the UETC framework.
+
+These effects are framed in terms of measurable quantities rather than interpretive conclusions.
+
+### 4.1 Time Delay and Path Length Effects
+
+Structured propagation environments may produce measurable differences in effective path length or transmission time.
+
+Observable indicators may include:
+- systematic delays correlated with field structure,
+- path-dependent arrival times,
+- deviations from expected straight-line propagation.
+
+Such effects are expected to scale with the degree of field organization and density variation.
+
+### 4.2 Directional Dependence and Anisotropy
+
+If propagation is influenced by geometry, direction-dependent effects may be present.
+
+These may appear as:
+- anisotropic signal timing,
+- orientation-dependent dispersion,
+- asymmetric broadening or attenuation.
+
+The absence of directional dependence in strongly structured environments would constrain the framework.
+
+### 4.3 Frequency-Dependent Behavior
+
+Propagation through structured environments may produce frequency-dependent effects.
+
+Potential observables include:
+- differential delays across frequency bands,
+- dispersion patterns not attributable to simple homogeneous media,
+- frequency-dependent bending or spreading of signals.
+
+Such behavior provides a means of inferring effective propagation parameters without invoking new physics.
+
+### 4.4 Apparent Lensing and Refraction Analogs
+
+Structured propagation environments may produce effects analogous to lensing or refraction.
+
+These may manifest as:
+- apparent shifts in source position,
+- changes in apparent brightness,
+- multiple propagation paths with differing delays.
+
+The refractive analogy is used descriptively and does not imply a literal optical medium.
+
+### 4.5 Measurement Limitations
+
+All propagation-related observables are subject to instrumental and methodological limitations.
+
+Resolution, signal-to-noise ratio, and model dependence must be carefully accounted for before drawing interpretive conclusions.
+
+Ambiguous or marginal effects are not treated as evidence in favor of the framework.
+
 Such absence may indicate:
 - dominance of other physical mechanisms,
 - insufficient measurement resolution,
