@@ -158,3 +158,39 @@ The emphasis on toroidal geometry reflects its frequent recurrence as an organiz
 In the UETC framework, toroidal geometry functions as an organizational reference rather than a prescriptive requirement. It provides a common structural language for discussing systems that exhibit closed-loop behavior across different scales and environments.
 
 Subsequent sections build on this geometric foundation to discuss how similar organizational patterns may recur across scales and how they connect to observational context.
+
+## 5. Cross-Scale Organization
+
+One of the motivating observations behind UETC is the recurrence of similar organizational patterns across a wide range of physical scales. Closed-loop structures, layered boundaries, and geometry-dependent propagation behavior appear in systems ranging from laboratory plasmas to astrophysical environments.
+
+This recurrence is not interpreted as evidence of identical governing dynamics across scales. Instead, UETC treats cross-scale similarity as an organizational outcome arising from shared structural constraints.
+
+### 5.1 Structural Recurrence Without Scale Invariance
+
+UETC explicitly rejects naive scale invariance. Physical parameters such as field strength, density, temperature, and characteristic timescales vary dramatically between systems at different scales.
+
+Nevertheless, certain geometric and organizational solutions may be favored under broad classes of conditions. Similar structures can emerge not because systems are scaled copies of one another, but because continuity, stability, and boundary constraints admit a limited set of persistent configurations.
+
+### 5.2 Role of Boundary Conditions
+
+Across scales, boundaries play a central role in shaping structure. Whether imposed by material interfaces, plasma gradients, or interaction with surrounding environments, boundary regions influence how fields organize and how propagation occurs.
+
+Toroidal and shell-like structures frequently arise in systems where boundaries constrain flow and circulation, providing a natural link between geometry and stability.
+
+### 5.3 Propagation as a Unifying Descriptor
+
+While underlying dynamics differ across scales, propagation behavior offers a common observational handle. Timing, dispersion, and directional dependence can often be measured even when detailed internal dynamics cannot.
+
+UETC emphasizes propagation-related observables as a means of connecting structural interpretation across disparate systems without requiring identical physical mechanisms.
+
+### 5.4 Caution Against Overgeneralization
+
+Cross-scale organization does not imply universality. Many systems do not exhibit toroidal or layered structure, and many observations are adequately explained without invoking cross-scale similarity.
+
+UETC treats cross-scale correspondence as suggestive and contextual rather than as confirmatory evidence.
+
+### 5.5 Transition to Unified Representation
+
+The recurrence of similar organizational features motivates the use of compact representations that summarize relationships between geometry, propagation, and effective density.
+
+The following section introduces such a unified expression as a descriptive summary of the framework, not as a fundamental law.
