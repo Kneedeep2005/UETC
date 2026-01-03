@@ -112,6 +112,8 @@ Potentially relevant observations include:
 
 Interpretation at these scales is necessarily indirect and must be approached cautiously, with careful attention to alternative explanations.
 
+A conceptual illustration of large-scale electromagnetic field organization in a spiral galaxy is provided in Figure 3.
+
 ### 2.5 Domains of Limited Applicability
 
 Certain observational domains are expected to provide little insight into UETC.
