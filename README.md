@@ -1,4 +1,7 @@
 [![UETC Release](https://img.shields.io/badge/release-uetcref--v1.0-blue)](https://github.com/Kneedeepp2005/UETC/releases/tag/uetcref-v1.0)
+[![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
+[![Status](https://img.shields.io/badge/status-active%20development-blue)](#)
+
 
 # Unified Electromagnetic Toroidal Cosmology (UETC)
 
