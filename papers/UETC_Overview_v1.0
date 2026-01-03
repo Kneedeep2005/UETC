@@ -20,17 +20,16 @@ This document serves as a technical overview and reference point for the UETC re
 
 ## Outline
 
-1. Introduction and Scope  
-2. Core Definitions and Assumptions  
-3. Propagation Parameterization  
+1. Introduction and Motivation  
+2. Conceptual Foundations  
+3. Propagation Parameter and Effective Descriptions  
 4. Toroidal Geometry and Structural Stability  
-5. Scaling and Cross-Scale Organization  
-6. Observational Implications  
-7. Constraints, Limitations, and Falsifiability  
-8. Relationship to Existing Models  
-9. Discussion and Open Questions  
-10. Summary and Future Directions  
-11. References
+5. Cross-Scale Organization  
+6. Unified Structural Expression  
+7. Constraints and Open Questions  
+8. Conclusion and Future Directions  
+9. References
+
 
 ## 1. Introduction and Motivation
 
