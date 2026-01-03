@@ -154,15 +154,43 @@ Constructive engagement is welcome in the form of:
 
 General debate, rhetorical critique, or speculative extensions are out of scope for this repository phase.
 
-## How to Cite
+## How to Cite UETC
 
-Until a formal paper is submitted, cite the repository release and the overview PDF:
+Until a formal peer-reviewed paper is submitted, UETC should be cited using the canonical repository release and the overview document.
 
-- **PDF:** `papers/UETC_Overview_v1.0.pdf`
-- **Repo release/tag:** `uetcref-v1.0`
+### Canonical Citation
 
-A BibTeX entry template will be maintained in:
-- `citations/references.bib`
+Gregory A. Beckman,  
+*Unified Electromagnetic Toroidal Cosmology (UETC): Canonical Technical Reference*,  
+GitHub repository, release **uetcref-v1.0**, 2026.  
+https://github.com/Kneedeepp2005/UETC
+
+### Citing the Overview Document
+
+When referring specifically to the framework summary or definitions presented in the overview, cite:
+
+Beckman, G. A.,  
+*Unified Electromagnetic Toroidal Cosmology: Overview v1.0*,  
+Unified Field Press, 2026.  
+Available at: `papers/UETC_Overview_v1.0.pdf`
+
+### Versioning Guidance
+
+- Always cite the **release tag** (`uetcref-v1.0`, `uetcref-v1.1`, etc.), not individual commits.
+- If quoting or relying on specific definitions, equations, or figures, reference the **Overview version** used.
+- Subsequent releases may refine language, structure, or figures; citations should reflect the version consulted.
+
+### BibTeX and Machine-Readable Citations
+
+- A BibTeX entry template is maintained at:  
+  `citations/references.bib`
+- A machine-readable citation file (`CITATION.cff`) is provided at the repository root to support GitHub, Zotero, and other reference managers.
+
+### Citation Scope Notes
+
+- This repository represents a **working research framework** and is **not peer reviewed**.
+- Citation indicates reference to definitions, structural interpretation, or organizational concepts, not endorsement or experimental validation.
+
 
 ## License
 
