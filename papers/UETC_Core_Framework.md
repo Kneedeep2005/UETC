@@ -280,3 +280,15 @@ Persistence of the framework depends on its ability to remain consistent with ob
 
 Not all systems are assumed to be toroidal.  
 Rather, toroidal configurations are emphasized where they arise naturally and demonstrably from field organization and stability considerations.
+
+## 6. Summary and Transition
+
+This document has established the core structural elements of Unified Electromagnetic Toroidal Cosmology (UETC), including its definitions, assumptions, propagation parameterization, geometric emphasis, scaling interpretation, and explicit constraints.
+
+UETC is presented here as a framework for organizing and interpreting propagation and structural behavior in systems where electromagnetic field geometry and density variation play a significant role.
+
+No claim is made that the framework is complete, universally applicable, or uniquely correct. Its value is intended to lie in structural clarity, internal consistency, and its capacity to generate testable questions.
+
+The next stage of the repository focuses on observational implications. That material does not introduce new foundational assumptions, but rather explores how the framework outlined here would manifest when applied to existing measurements and known physical systems.
+
+Readers should treat this Core Framework as the reference point against which all subsequent documents are evaluated.
