@@ -47,6 +47,8 @@ Where:
 - \( n(x) \) is an effective refractive index,
 - \( u(x) \) is a density/medium-coupled propagation parameter inferred observationally.
 
+This parameter is an effective descriptor inferred from observation and does not imply modification of fundamental constants.
+
 ## Repository Map
 
 This repository is organized to separate conceptual foundations, observational interpretation, and supporting context. Use the links below to navigate directly to the relevant materials.
