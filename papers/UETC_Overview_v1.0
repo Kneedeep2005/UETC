@@ -309,3 +309,15 @@ Future work within the UETC framework includes:
 Readers seeking detailed definitions, observational context, figures, and supporting material are directed to the accompanying documents within the UETC repository. This overview is intended as an entry point and reference, not as a comprehensive or finalized account.
 
 UETC remains open to refinement, challenge, and partial invalidation as additional analysis and data become available.
+
+## 9. References
+
+This overview draws on established literature in classical electrodynamics, plasma physics, and astrophysical observation, as well as on original organizational work developed within the UETC framework.
+
+A consolidated and maintained bibliography is provided in the repository at:
+
+`citations/references.bib`
+
+That file serves as the authoritative reference list for all UETC documents, including the Core Framework, Observational Implications, and appendices.
+
+Individual documents reference this shared bibliography to ensure consistency and to avoid duplication.
