@@ -173,6 +173,59 @@ The geometry itself does not introduce new physics but provides a structural con
 
 ### 3.4 Neutral Structural Role
 
+## 4. Scaling and Cross-Scale Consistency
+
+UETC is motivated in part by the observation that similar structural patterns recur across a wide range of physical scales. This section clarifies how scaling is treated within the framework.
+
+### 4.1 Meaning of Scaling in UETC
+
+Scaling within UETC does not imply that identical physical mechanisms operate unchanged at all scales.
+
+Instead, scaling refers to the recurrence of:
+- similar geometric organization,
+- comparable stability conditions,
+- analogous propagation behavior,
+
+under differing physical parameters.
+
+The framework emphasizes structural consistency rather than parameter invariance.
+
+### 4.2 Scale-Dependent Parameters
+
+While organizational patterns may recur, specific quantities such as field strength, characteristic length, energy density, and timescale are expected to vary significantly with scale.
+
+UETC explicitly allows for:
+- different dominant interactions at different scales,
+- emergent behavior not present at smaller scales,
+- breakdowns of analogy where conditions no longer support similar organization.
+
+### 4.3 Role of Geometry in Scaling
+
+Geometry serves as a unifying descriptive element across scales.
+
+Closed-loop and toroidal configurations are treated as solutions favored by stability and continuity considerations, regardless of scale, when conditions permit such organization.
+
+The recurrence of similar geometries does not imply identical dynamics, but it does suggest common organizing constraints.
+
+### 4.4 Implications for Propagation
+
+Propagation behavior, as described by the parameter \( u(x) \), may exhibit scale-dependent variation while preserving a common descriptive form.
+
+This allows propagation effects to be compared across systems without asserting a single universal mechanism.
+
+The intent is comparative clarity, not forced unification.
+
+### 4.5 Boundaries of Applicability
+
+UETC does not claim universal applicability.
+
+The framework is expected to fail or become irrelevant in regimes where:
+- electromagnetic field organization is negligible,
+- propagation effects are dominated by unrelated mechanisms,
+- or structural assumptions no longer hold.
+
+Identifying such boundaries is considered a necessary part of evaluating the framework.
+
 Within UETC, toroidal geometry is treated as a structural outcome, not a universal requirement.
 
 Not all systems are assumed to be toroidal.  
