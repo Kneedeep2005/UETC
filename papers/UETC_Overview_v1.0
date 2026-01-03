@@ -120,3 +120,41 @@ UETC emphasizes that \( u(x) \) should be inferred from observation and measurem
 Formal treatment of \( u(x) \), including its role in field geometry, energy flow, and observational interpretation, is developed in the Core Framework document within the repository.
 
 In this overview, the parameter is introduced solely to establish conceptual continuity between electromagnetic structure and effective propagation behavior, deferring mathematical development to the dedicated technical sections.
+
+## 4. Toroidal Geometry and Structural Stability
+
+A defining structural emphasis of the UETC framework is the role of closed-loop and toroidal geometries in electromagnetic systems. These configurations are not assumed to be universal, but are highlighted because they frequently arise as stable or persistent solutions under a wide range of physical conditions.
+
+### 4.1 Closed-Loop Field Configurations
+
+Electromagnetic systems governed by continuity, conservation, and boundary constraints often favor configurations without open endpoints. Closed-loop field structures minimize discontinuities and allow energy, momentum, and influence to circulate within a bounded region.
+
+Toroidal geometries represent a natural class of such closed-loop solutions. Their defining feature is continuous circulation around a central axis, with no requirement for external termination.
+
+### 4.2 Stability Considerations
+
+From a structural perspective, toroidal configurations offer several stabilizing characteristics:
+
+- reduction of boundary losses relative to open geometries,
+- continuous redistribution of energy along closed paths,
+- compatibility with rotational symmetry and conservation constraints.
+
+These properties do not guarantee stability in all cases, but help explain why toroidal organization is repeatedly observed in electromagnetic and plasma systems.
+
+### 4.3 Relation to Propagation Behavior
+
+The geometry of a field influences how propagation occurs within and around it. In closed-loop or toroidal configurations, propagation paths may be guided, constrained, or redirected by the underlying structure.
+
+Within UETC, this relationship is treated qualitatively at the overview level: geometry provides a structural context within which effective propagation behavior can be described, rather than acting as an independent causal agent.
+
+### 4.4 Non-Universality and Scope Limits
+
+UETC does not assert that toroidal geometry is present in all electromagnetic systems or that it dominates all dynamics where it appears. Open, chaotic, or transient configurations may be equally relevant in many contexts.
+
+The emphasis on toroidal geometry reflects its frequent recurrence as an organizing solution, not a claim of exclusivity or necessity.
+
+### 4.5 Structural Role Within the Framework
+
+In the UETC framework, toroidal geometry functions as an organizational reference rather than a prescriptive requirement. It provides a common structural language for discussing systems that exhibit closed-loop behavior across different scales and environments.
+
+Subsequent sections build on this geometric foundation to discuss how similar organizational patterns may recur across scales and how they connect to observational context.
