@@ -232,3 +232,60 @@ Such absence may indicate:
 - dominance of other physical mechanisms,
 - insufficient measurement resolution,
 - or inapplicability of UETC to the system under consideration.
+
+## 5. Constraints, Ambiguities, and Competing Explanations
+
+This section addresses limitations inherent in observational interpretation and emphasizes the role of competing explanations.
+
+UETC is not presented as an exclusive or universally superior framework.
+
+### 5.1 Observational Ambiguity
+
+Many observational signatures discussed in this document are not unique to UETC.
+
+Similar patterns may arise from:
+- gravitational effects,
+- fluid or plasma dynamics,
+- statistical or instrumental artifacts,
+- simplified modeling assumptions.
+
+Ambiguity is treated as an expected feature of complex systems rather than a flaw.
+
+### 5.2 Degeneracy of Interpretations
+
+Multiple theoretical frameworks may account for the same observational data.
+
+UETC does not claim priority in cases where:
+- existing models explain observations adequately,
+- additional structural interpretation adds no clarity,
+- or inferred parameters remain underconstrained.
+
+Degeneracy is acknowledged explicitly and not treated as a failure.
+
+### 5.3 Measurement and Resolution Limits
+
+Observational data are limited by:
+- instrument resolution,
+- incomplete spatial or temporal coverage,
+- reliance on indirect inference.
+
+Claims of structural correspondence must account for these limitations before interpretation.
+
+### 5.4 Risk of Overinterpretation
+
+Pattern recognition carries an inherent risk of overinterpretation.
+
+UETC explicitly cautions against:
+- forcing toroidal or layered interpretations onto weak data,
+- treating qualitative resemblance as confirmation,
+- extrapolating beyond observational support.
+
+Structural similarity alone is insufficient to establish relevance.
+
+### 5.5 Role of Negative Results
+
+Negative or null results are considered informative.
+
+Consistent absence of expected structural or propagation signatures in relevant domains would constrain or invalidate aspects of the framework.
+
+Such outcomes are treated as necessary feedback rather than contradictions.
