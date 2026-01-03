@@ -56,3 +56,80 @@ The framework proceeds from the following assumptions:
 ### 1.3 Explicit Non-Assumptions
 
 UETC does not assume:
+
+- the existence of speculative particles or new fundamental forces,
+- violations of established conservation laws,
+- that spacetime itself must be fundamentally modified,
+- that current observational data are incorrect or fabricated.
+
+Where reinterpretation is proposed, it applies to **structural explanation**, not data validity.
+
+### 1.4 Terminology Conventions
+
+Throughout this repository:
+
+- “Field” refers to physically realized electromagnetic field structures.
+- “Density” refers to effective electromagnetic or medium-coupled density inferred from observable behavior.
+- “Propagation” refers to effective transmission of energy or information, not necessarily particle motion.
+
+Formal symbol definitions are consolidated in the terminology appendix.
+
+## 2. Propagation Parameter u(x)
+
+A central quantity used throughout the UETC framework is the dimensionless propagation parameter \( u(x) \), which characterizes effective propagation behavior as a function of position.
+
+### 2.1 Definition
+
+The parameter \( u(x) \) is defined as:
+
+\[
+u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2
+\]
+
+where:
+- \( c_0 \) is the reference propagation speed in the vacuum-limit case,
+- \( c(x) \) is the effective local propagation speed inferred from observation,
+- \( n(x) \) is an effective refractive index,
+- \( u(x) \) is a dimensionless measure of propagation modification.
+
+By definition, the vacuum-limit condition corresponds to:
+
+\[
+u(x) = 1
+\]
+
+### 2.2 Interpretation
+
+Within UETC, \( u(x) \) is not treated as a fundamental constant or new field.  
+It is a descriptive parameter that captures how propagation behavior differs from the vacuum-limit case due to local field structure or effective medium properties.
+
+The parameter is intended to be:
+- observationally inferable,
+- scale-independent in form,
+- applicable wherever propagation effects are measured.
+
+### 2.3 Observational Basis
+
+The value of \( u(x) \) is inferred indirectly through measurable effects, including but not limited to:
+- time delay,
+- path curvature,
+- frequency-dependent dispersion,
+- apparent refractive or lensing behavior.
+
+No assumption is made that \( c(x) \) represents a violation of fundamental limits. Rather, \( c(x) \) represents an effective propagation speed arising from structured field environments.
+
+### 2.4 Relationship to Existing Concepts
+
+The form of \( u(x) \) is mathematically equivalent to a squared refractive index and is intentionally written in that form to emphasize continuity with established wave and electromagnetic theory.
+
+UETC does not assert that spacetime itself is a conventional optical medium.  
+The refractive analogy is used as an effective description of propagation behavior in structured electromagnetic environments.
+
+### 2.5 Scope and Limits
+
+In this framework:
+- \( u(x) \geq 0 \) by definition,
+- \( u(x) = 1 \) represents the vacuum-limit reference case,
+- deviations from unity indicate structured propagation effects.
+
+No claim is made, at this stage, regarding the ultimate origin of such structure beyond electromagnetic field organization and density variation.
