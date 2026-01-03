@@ -86,3 +86,37 @@ The framework therefore focuses on identifying recurring geometric and organizat
 UETC is explicitly framed as a working framework rather than a finalized or complete theory. It does not claim exclusivity, completeness, or universal applicability.
 
 Its role is to organize concepts, highlight structural relationships, and generate testable questions. Acceptance or rejection of specific elements depends on consistency with observation and comparison with existing models.
+
+## 3. Propagation Parameter and Effective Descriptions
+
+A central concept in the UETC framework is the use of an effective propagation parameter to describe how transmission behavior varies in structured electromagnetic environments. This parameter is introduced as an observational and organizational tool rather than as a modification of fundamental physical constants.
+
+### 3.1 Motivation for an Effective Parameter
+
+In many physical systems, propagation is treated under idealized assumptions corresponding to homogeneous, isotropic vacuum conditions. However, real environments frequently exhibit structured fields, gradients, and boundary regions that influence observed transmission behavior.
+
+Rather than treating these effects as anomalies or secondary corrections, UETC introduces an effective parameter to describe how propagation characteristics respond to local structure and density in a consistent manner.
+
+### 3.2 Definition of the Propagation Parameter
+
+Within UETC, the propagation parameter is defined as:
+
+\[
+u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2
+\]
+
+where \( c_0 \) represents the reference propagation speed in the vacuum limit, \( c(x) \) is the effective local propagation speed inferred from observation, and \( n(x) \) is an effective refractive index. By definition, the vacuum limit corresponds to \( u = 1 \).
+
+This formulation does not assert that the fundamental speed limit of information transfer is violated. Instead, it provides a compact way to describe how observed propagation behavior reflects environmental structure.
+
+### 3.3 Interpretation and Scope
+
+The parameter \( u(x) \) is intended as a descriptive quantity derived from effective behavior, not as a claim of altered physical law. It captures how signal timing, apparent velocity, or transmission characteristics may differ from idealized assumptions due to structured electromagnetic environments.
+
+UETC emphasizes that \( u(x) \) should be inferred from observation and measurement rather than imposed a priori. Its use is limited to contexts where environmental structure is known or suspected to play a significant role.
+
+### 3.4 Relation to the Core Framework
+
+Formal treatment of \( u(x) \), including its role in field geometry, energy flow, and observational interpretation, is developed in the Core Framework document within the repository.
+
+In this overview, the parameter is introduced solely to establish conceptual continuity between electromagnetic structure and effective propagation behavior, deferring mathematical development to the dedicated technical sections.
