@@ -133,3 +133,47 @@ In this framework:
 - deviations from unity indicate structured propagation effects.
 
 No claim is made, at this stage, regarding the ultimate origin of such structure beyond electromagnetic field organization and density variation.
+
+## 3. Toroidal Field Geometry
+
+A recurring structural element in UETC is toroidal field geometry. This section defines the role of toroidal configurations within the framework and explains why such geometries are treated as significant.
+
+### 3.1 Definition of Toroidal Geometry
+
+In this context, a toroidal geometry refers to a closed-loop field configuration in which field lines circulate around a central axis while remaining continuous and self-contained.
+
+Toroidal configurations are characterized by:
+- closed field line topology,
+- rotational symmetry around an axis,
+- internal circulation without open endpoints.
+
+Such geometries are well-established in classical electromagnetism and plasma physics.
+
+### 3.2 Energetic and Structural Stability
+
+Closed-loop field configurations naturally minimize losses associated with open boundaries and discontinuities.
+
+From a structural perspective, toroidal geometries:
+- reduce radiative leakage,
+- allow sustained circulation of energy,
+- support long-lived, self-organizing behavior.
+
+These properties make toroidal configurations energetically favorable in systems where fields are free to organize dynamically.
+
+### 3.3 Relevance to Propagation Behavior
+
+Toroidal field geometry influences propagation by shaping:
+- field curvature,
+- effective path length,
+- local field density gradients.
+
+As a result, propagation behavior described by the parameter \( u(x) \) may vary systematically within and around toroidal structures.
+
+The geometry itself does not introduce new physics but provides a structural context in which known electromagnetic behavior manifests differently.
+
+### 3.4 Neutral Structural Role
+
+Within UETC, toroidal geometry is treated as a structural outcome, not a universal requirement.
+
+Not all systems are assumed to be toroidal.  
+Rather, toroidal configurations are emphasized where they arise naturally and demonstrably from field organization and stability considerations.
