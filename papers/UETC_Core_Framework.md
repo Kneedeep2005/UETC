@@ -149,6 +149,9 @@ Toroidal configurations are characterized by:
 
 Such geometries are well-established in classical electromagnetism and plasma physics.
 
+A conceptual illustration of toroidal field geometry across scales is provided in Figure 1.
+
+
 ### 3.2 Energetic and Structural Stability
 
 Closed-loop field configurations naturally minimize losses associated with open boundaries and discontinuities.
