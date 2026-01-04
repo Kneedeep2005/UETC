@@ -168,6 +168,7 @@ Planned next steps include:
 - expansion of the observational implications section,
 - refinement of figures for cross-scale consistency,
 - preparation of a standalone technical preprint if warranted.
+- expansion of observation-driven scaling analyses across astrophysical systems,
 
 ## How to Engage
 
