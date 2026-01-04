@@ -1,0 +1,62 @@
+# AT2020afhd Disk–Jet Precession Scaling
+
+## Observational Summary
+The tidal disruption event (TDE) AT2020afhd exhibits synchronized quasi-periodic variability
+in both X-ray and radio emission with a period of 19.6 ± 1.5 days.
+The modulation is interpreted in the literature as disk–jet co-precession
+consistent with Lense–Thirring (frame-dragging) precession of a tilted, thick accretion flow.
+
+The analysis adopts a black hole mass prior of:
+log(M•/M⊙) = 6.7 ± 0.5
+
+and infers a dimensionless spin parameter in the approximate range:
+a• ≈ 0.11–0.35 (positive spin favored).
+
+No assumptions beyond those stated in the source publication are made here.
+
+---
+
+## Scaling Extraction
+
+Define the gravitational radius:
+R_g = GM / c²
+
+and a dimensionless coherent-precession radius:
+ρ ≡ R_coherent / R_g
+
+Using the standard weak-field Lense–Thirring precession scaling,
+
+Ω_LT ≈ 2a / (ρ³ t_g),   where t_g = GM / c³,
+
+the observed precession period P = 2π / Ω_LT
+can be inverted to estimate the characteristic radius:
+
+ρ ≈ (2a / (Ω t_g))^(1/3)
+
+---
+
+## Resulting Scale (AT2020afhd)
+
+Using:
+P = 19.6 days  
+M• ≈ 10^6.7 M⊙  
+a• ≈ 0.11–0.35  
+
+yields a characteristic coherent-precession radius of approximately:
+
+ρ ≈ 10–20 R_g   (central estimate)
+
+Corresponding to a physical scale of order:
+R ≈ 0.3–1 AU
+
+The uncertainty is dominated by the black hole mass prior and the assumed spin range.
+
+---
+
+## Interpretation Scope
+
+This file reports only the observationally anchored scaling implied by the measured
+precession period under standard assumptions used in the literature.
+
+Any interpretation of this radius as a structured or coherent coupling domain
+is model-dependent and treated separately.
