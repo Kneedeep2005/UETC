@@ -90,6 +90,25 @@ This repository is organized to separate conceptual foundations, observational i
 
 The canonical, citable snapshot of this repository is the release **`uetcref-v1.0`**.
 
+## Observational Constraints
+
+UETC includes a growing set of observation-driven scaling analyses derived directly
+from published astrophysical measurements. These entries are intended to remain
+model-agnostic and revision-safe, serving as empirical anchors for future testing.
+
+### Black Holes
+
+- **AT2020afhd (Tidal Disruption Event)**  
+  Disk–jet co-precession with a measured period of 19.6 ± 1.5 days has been used to
+  extract a characteristic coherent-precession radius in gravitational units.
+  The analysis follows standard Lense–Thirring precession assumptions as presented
+  in the literature and does not introduce additional theoretical claims.
+
+  Location:  
+  `observational_constraints/black_holes/AT2020afhd_precession_scaling.md`
+
+  Reference:  
+  *Science Advances* (2025), “Detection of disk–jet coprecession in a tidal disruption event”
 
 ## Documents
 
