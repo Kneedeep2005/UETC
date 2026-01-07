@@ -84,13 +84,6 @@ This repository is organized to separate conceptual foundations, observational i
 - **Comparison to Standard Models**  
   [`appendices/comparison_standard_models.md`](appendices/comparison_standard_models.md)
 
-### Observational Constraints
-
- - **Black Holes**  
-  [`observational_constraints/black_holes/`](observational_constraints/black_holes/)  
-  Observation-driven scaling analyses derived directly from published astrophysical measurements.
-  These entries are intended to remain model-agnostic and revision-safe.
-
 ### Citations
 
 - **Consolidated bibliography**  
@@ -105,6 +98,11 @@ astrophysical measurements. These entries are intended to remain model-agnostic,
 revision-safe, and suitable as empirical anchors for future testing.
 
 #### Black Holes
+
+ - **Black Holes**  
+  [`observational_constraints/black_holes/`](observational_constraints/black_holes/)  
+  Observation-driven scaling analyses derived directly from published astrophysical measurements.
+  These entries are intended to remain model-agnostic and revision-safe.
 
 - **Growth-Time Constraints on Ultramassive Black Holes**  
   [`observational_constraints/black_holes/growth_time_constraints.md`](observational_constraints/black_holes/growth_time_constraints.md)  
