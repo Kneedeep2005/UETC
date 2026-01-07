@@ -15,7 +15,8 @@ Canonical technical reference for **Unified Electromagnetic Toroidal Cosmology (
 This repository is a **working framework**, not a finalized theory.
 
 Observational reinterpretation here means reanalyzing existing measurements under different structural and propagation assumptions, not rejecting observational data.
-
+Where observational tensions exist (e.g., growth-time limits or large-scale electromagnetic structure),
+they are documented explicitly and treated as motivation rather than proof.
 
 ### Intended audience
 This repository is written for technically literate readers, including engineers, physicists, applied researchers, and advanced students familiar with classical electromagnetism, wave propagation, and observational astrophysics.
@@ -97,13 +98,24 @@ This repository is organized to separate conceptual foundations, observational i
 
 The canonical, citable snapshot of this repository is the release **`uetcref-v1.0`**.
 
-## Observational Constraints
+### Observational Constraints
 
-UETC includes a growing set of observation-driven scaling analyses derived directly
-from published astrophysical measurements. These entries are intended to remain
-model-agnostic and revision-safe, serving as empirical anchors for future testing.
+UETC includes observation-driven constraint analyses derived directly from published
+astrophysical measurements. These entries are intended to remain model-agnostic,
+revision-safe, and suitable as empirical anchors for future testing.
 
-### Black Holes
+#### Black Holes
+
+- **Growth-Time Constraints on Ultramassive Black Holes**  
+  [`observational_constraints/black_holes/growth_time_constraints.md`](observational_constraints/black_holes/growth_time_constraints.md)  
+  Documents the well-known Eddington-limited growth-time tension for ultramassive
+  black holes and motivates investigation of alternative physical regimes without
+  asserting a resolution.
+
+- **Normalized Electromagnetic Domain Scaling Framework**  
+  [`observational_constraints/black_holes/em_domain_scaling.md`](observational_constraints/black_holes/em_domain_scaling.md)  
+  Introduces a dimensionless, GR-baselined framework for comparing electromagnetic
+  structure across black hole systems spanning many orders of magnitude in mass.
 
 - **AT2020afhd (Tidal Disruption Event)**  
   Disk–jet co-precession with a measured period of 19.6 ± 1.5 days has been used to
