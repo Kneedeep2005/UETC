@@ -14,12 +14,14 @@ Canonical technical reference for **Unified Electromagnetic Toroidal Cosmology (
 
 This repository is a **working framework**, not a finalized theory.
 
-Observational reinterpretation here means reanalyzing existing measurements under different structural and propagation assumptions, not rejecting observational data.
+Observational reinterpretation here means reanalyzing existing measurements under 
+different structural and propagation assumptions, not rejecting observational data.
 Where observational tensions exist (e.g., growth-time limits or large-scale electromagnetic structure),
 they are documented explicitly and treated as motivation rather than proof.
 
 ### Intended audience
-This repository is written for technically literate readers, including engineers, physicists, applied researchers, and advanced students familiar with classical electromagnetism, wave propagation, and observational astrophysics.
+This repository is written for technically literate readers, including engineers, physicists, applied researchers, 
+and advanced students familiar with classical electromagnetism, wave propagation, and observational astrophysics.
 
 ### What this repo is
 - A structured technical reference that organizes UETC concepts, definitions, mechanisms, and observational implications.
@@ -98,11 +100,6 @@ astrophysical measurements. These entries are intended to remain model-agnostic,
 revision-safe, and suitable as empirical anchors for future testing.
 
 #### Black Holes
-
- - **Black Holes**  
-  [`observational_constraints/black_holes/`](observational_constraints/black_holes/)  
-  Observation-driven scaling analyses derived directly from published astrophysical measurements.
-  These entries are intended to remain model-agnostic and revision-safe.
 
 - **Growth-Time Constraints on Ultramassive Black Holes**  
   [`observational_constraints/black_holes/growth_time_constraints.md`](observational_constraints/black_holes/growth_time_constraints.md)  
@@ -185,7 +182,7 @@ Planned next steps include:
 - expansion of the observational implications section,
 - refinement of figures for cross-scale consistency,
 - preparation of a standalone technical preprint if warranted.
-- expansion of observation-driven scaling analyses across astrophysical systems,
+- expansion of observation-driven scaling analyses across astrophysical systems
 
 ## How to Engage
 
