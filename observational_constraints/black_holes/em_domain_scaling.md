@@ -137,3 +137,7 @@ structure persists systematically beyond the immediate gravitational radius.
 No claim is made that this framework alone validates UETC. Instead, it serves as a
 testable organizational tool that complements other observational constraints and
 motivates further study.
+
+An example visualization of this framework is provided in:
+`figures/em_domain_scaling_example.png`.
+
