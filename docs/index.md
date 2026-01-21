@@ -2,6 +2,7 @@
 layout: default
 title: UETC
 ---
+
 UETC is an independent, first-principles framework for organizing and interpreting electromagnetic structure, effective propagation behavior, and cross-scale geometry in observed systems.
 
 <div class="ufp-callout">
