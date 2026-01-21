@@ -5,19 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title }} | {{ site.title }}</title>
 
-    <!-- Minimal theme base (optional), plus custom overrides -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
 
     <meta name="description" content="{{ site.description }}">
-
-    <!-- MathJax for LaTeX rendering -->
-    <script>
-      window.MathJax = {
-        tex: { inlineMath: [['\\(','\\)']], displayMath: [['\\[','\\]']] }
-      };
-    </script>
-    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
 
   <body>
@@ -52,5 +43,24 @@
         <div>© {{ "now" | date: "%Y" }} Gregory A. Beckman · Licensed CC BY 4.0</div>
       </div>
     </footer>
+
+    <!-- MathJax: single config + load at end for reliable rendering -->
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['\\(','\\)'], ['$', '$']],
+          displayMath: [['$$','$$'], ['\\[','\\]']]
+        },
+        options: {
+          skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+        },
+        startup: {
+          typeset: true
+        }
+      };
+    </script>
+    <script id="MathJax-script" async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
   </body>
 </html>
