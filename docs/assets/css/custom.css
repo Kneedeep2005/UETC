@@ -157,3 +157,23 @@ mjx-container { color: var(--text) !important; }
   color: #d0d0d0;
 }
 
+/* --- MathJax display equation styling --- */
+
+/* Center and scale display equations */
+mjx-container[display="true"] {
+  display: block;
+  text-align: center;
+  margin: 1.4em 0 1.2em 0;
+  font-size: 1.15em; /* subtle, professional increase */
+}
+
+/* Ensure math text color matches body */
+mjx-container {
+  color: var(--text) !important;
+}
+
+/* Slightly de-emphasize text inside math like 'vacuum limit' */
+mjx-container mjx-text {
+  color: #d6d6d6;
+}
+
