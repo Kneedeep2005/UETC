@@ -37,3 +37,10 @@ UETC is a working research framework. It is not peer reviewed, and it does not c
 u(x) = c₀² / c(x)² = n(x)²   (vacuum limit: u = 1)
 
 This parameter is treated as an effective descriptor inferred observationally and used to organize propagation behavior in structured environments.
+
+---
+
+## Cite this work
+
+Citation guidance is maintained in the repository README and release tags:  
+https://github.com/Kneedeep2005/UETC
