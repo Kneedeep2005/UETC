@@ -1,0 +1,125 @@
+/* UETC Pages theme, Unified Field Press aligned: dark, restrained gold, high readability */
+
+:root{
+  --bg: #0b0c10;
+  --panel: #0f1117;
+  --text: #e8e8e8;
+  --muted: #b7b7b7;
+  --line: rgba(255,255,255,0.10);
+  --gold: #c9a227;      /* restrained gold */
+  --gold2: #a8861f;     /* darker gold */
+  --link: #d6b24a;
+  --max: 980px;
+}
+
+/* Base */
+html, body { background: var(--bg); color: var(--text); }
+body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; line-height: 1.6; }
+
+/* Layout container */
+.ufp-container { max-width: var(--max); margin: 0 auto; padding: 0 18px; }
+
+/* Header */
+.ufp-header{
+  border-bottom: 1px solid var(--line);
+  background: linear-gradient(180deg, rgba(15,17,23,0.95), rgba(11,12,16,0.95));
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  backdrop-filter: blur(8px);
+}
+.ufp-header-inner{ padding: 18px 0 14px 0; }
+
+.ufp-brand{
+  display: flex;
+  gap: 14px;
+  align-items: baseline;
+  flex-wrap: wrap;
+}
+.ufp-brand-title{
+  font-weight: 800;
+  letter-spacing: 0.4px;
+  font-size: 20px;
+  text-decoration: none;
+  color: var(--gold);
+}
+.ufp-brand-sub{
+  color: var(--muted);
+  font-size: 13px;
+}
+
+/* Nav */
+.ufp-nav{
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.ufp-nav a{
+  text-decoration: none;
+  color: var(--text);
+  border: 1px solid var(--line);
+  padding: 6px 10px;
+  border-radius: 10px;
+  font-size: 13px;
+}
+.ufp-nav a:hover{
+  border-color: rgba(255,255,255,0.18);
+  color: var(--link);
+}
+
+/* Content */
+.ufp-main { padding: 28px 0 26px 0; }
+.ufp-card{
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 16px 16px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.35);
+}
+
+h1, h2, h3 { color: var(--text); }
+h1 { font-size: 32px; margin-top: 0; }
+h2 { margin-top: 26px; border-bottom: 1px solid var(--line); padding-bottom: 8px; }
+p, li { color: var(--text); }
+hr { border: 0; border-top: 1px solid var(--line); margin: 22px 0; }
+
+a { color: var(--link); }
+a:hover { color: #f0d37a; }
+
+.ufp-callout{
+  background: rgba(201,162,39,0.08);
+  border: 1px solid rgba(201,162,39,0.25);
+  border-radius: 14px;
+  padding: 14px 16px;
+}
+.ufp-callout strong { color: var(--gold); }
+
+/* Cards */
+.ufp-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 12px;
+  margin-top: 10px;
+}
+.ufp-mini{
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 14px 14px;
+}
+.ufp-mini-title{ font-weight: 700; color: var(--gold); margin-bottom: 6px; }
+.ufp-mini p{ margin: 0 0 8px 0; color: var(--muted); font-size: 14px; }
+
+/* Footer */
+.ufp-footer{
+  border-top: 1px solid var(--line);
+  padding: 18px 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+.ufp-footer a{ color: var(--muted); }
+.ufp-footer a:hover{ color: var(--link); }
+
+/* Make MathJax blend */
+mjx-container { color: var(--text) !important; }
