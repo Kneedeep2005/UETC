@@ -123,3 +123,37 @@ a:hover { color: #f0d37a; }
 
 /* Make MathJax blend */
 mjx-container { color: var(--text) !important; }
+
+/* --- Readability fixes --- */
+
+/* Ensure main text and lists are bright enough */
+.ufp-card p,
+.ufp-card li,
+.ufp-card ul,
+.ufp-card ol {
+  color: var(--text);
+}
+
+/* Headings inside content */
+.ufp-card h2,
+.ufp-card h3 {
+  color: var(--text);
+}
+
+/* Links inside content */
+.ufp-card a {
+  color: var(--link);
+  font-weight: 500;
+}
+
+/* Make list bullets visible */
+.ufp-card ul li::marker {
+  color: var(--gold);
+}
+
+/* Slightly brighten muted explanatory text */
+.ufp-card .muted,
+.ufp-card em {
+  color: #d0d0d0;
+}
+
