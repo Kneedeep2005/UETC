@@ -26,9 +26,9 @@ UETC is a working research framework. It is not peer reviewed, and it does not c
 
 UETC uses an effective propagation parameter:
 
-\[
-u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2,\quad \text{vacuum limit: } u=1
-\]
+**Effective propagation parameter**
+
+u(x) = c₀² / c(x)² = n(x)²  (vacuum limit: u = 1)
 
 This parameter is treated as an effective descriptor inferred observationally and used to organize propagation behavior in structured environments.
 
