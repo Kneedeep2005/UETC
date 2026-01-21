@@ -4,17 +4,53 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title }} | {{ site.title }}</title>
+
+    <!-- Minimal theme base (optional), plus custom overrides -->
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
+
+    <meta name="description" content="{{ site.description }}">
+
+    <!-- MathJax for LaTeX rendering -->
     <script>
-      window.MathJax = { tex: { inlineMath: [['\\(','\\)']], displayMath: [['\\[','\\]']] } };
+      window.MathJax = {
+        tex: { inlineMath: [['\\(','\\)']], displayMath: [['\\[','\\]']] }
+      };
     </script>
     <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
+
   <body>
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+    <header class="ufp-header">
+      <div class="ufp-container ufp-header-inner">
+        <div class="ufp-brand">
+          <a class="ufp-brand-title" href="{{ "/" | relative_url }}">UETC</a>
+          <div class="ufp-brand-sub">Unified Electromagnetic Toroidal Cosmology, Technical Reference</div>
+        </div>
+
+        <nav class="ufp-nav">
+          <a href="{{ "/" | relative_url }}">Home</a>
+          <a href="https://github.com/Kneedeep2005/UETC">Repository</a>
+          <a href="https://github.com/Kneedeep2005/UETC/releases">Releases</a>
+          <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Overview_v1.0.md">Overview</a>
+          <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Core_Framework.md">Core</a>
+          <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Observational_Implications.md">Observations</a>
+          <a href="https://github.com/Kneedeep2005/UETC/tree/main/figures">Figures</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="ufp-container ufp-main">
+      <div class="ufp-card">
         {{ content }}
       </div>
     </main>
+
+    <footer class="ufp-footer">
+      <div class="ufp-container">
+        <div>Working framework. Not peer reviewed. No claim of experimental proof.</div>
+        <div>© {{ "now" | date: "%Y" }} Gregory A. Beckman · Licensed CC BY 4.0</div>
+      </div>
+    </footer>
   </body>
 </html>
