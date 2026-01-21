@@ -1,46 +1,58 @@
-# Unified Electromagnetic Toroidal Cosmology (UETC)
-
-**Navigate:** [Repo](https://github.com/Kneedeep2005/UETC) · [Overview](../papers/UETC_Overview_v1.0.md) · [Core](../papers/UETC_Core_Framework.md) · [Observations](../papers/UETC_Observational_Implications.md) · [Figures](../figures/)
-
+---
+layout: default
+title: UETC
+---
 UETC is an independent, first-principles framework for organizing and interpreting electromagnetic structure, effective propagation behavior, and cross-scale geometry in observed systems.
 
-This site is a simple public entry point for readers asking:
-- Where is the technical reference?
-- What does UETC claim, and what does it not claim?
-- Where are definitions, figures, and supporting documents?
+<div class="ufp-callout">
+  <strong>Status and scope:</strong> Working framework, not peer reviewed, and not claiming experimental proof. The goal is clarity, internal consistency, and observational accountability.
+</div>
 
----
+<hr>
 
 ## Start here
 
-- **Repository (canonical reference):**  
-  https://github.com/Kneedeep2005/UETC
+<div class="ufp-grid">
+  <div class="ufp-mini">
+    <div class="ufp-mini-title">Overview</div>
+    <p>Paper-style entry point intended to answer “where is the paper?”</p>
+    <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Overview_v1.0.md">Open Overview</a>
+  </div>
 
-- **Overview:** [UETC_Overview_v1.0](../papers/UETC_Overview_v1.0.md)  
-- **Core Framework:** [UETC_Core_Framework](../papers/UETC_Core_Framework.md)  
-- **Observational Implications:** [UETC_Observational_Implications](../papers/UETC_Observational_Implications.md)  
-- **Figures:** [figures](../figures/)  
-- **How to cite:** see the repository `README.md`
+  <div class="ufp-mini">
+    <div class="ufp-mini-title">Core Framework</div>
+    <p>Definitions, invariants, and the structural basis of UETC.</p>
+    <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Core_Framework.md">Open Core Framework</a>
+  </div>
 
----
+  <div class="ufp-mini">
+    <div class="ufp-mini-title">Observational Implications</div>
+    <p>Predicted observational effects, constraints, and testable structure.</p>
+    <a href="https://github.com/Kneedeep2005/UETC/blob/main/papers/UETC_Observational_Implications.md">Open Observational Implications</a>
+  </div>
 
-## Status and scope
+  <div class="ufp-mini">
+    <div class="ufp-mini-title">Figures</div>
+    <p>Conceptual schematics used across documents.</p>
+    <a href="https://github.com/Kneedeep2005/UETC/tree/main/figures">Open Figures</a>
+  </div>
+</div>
 
-UETC is a working research framework. It is not peer reviewed, and it does not claim experimental proof. The goal is clarity, internal consistency, and observational accountability, with an emphasis on structure and mechanisms rather than mathematical completeness.
-
----
+<hr>
 
 ## Definition anchor
 
-**Effective propagation parameter**
+UETC uses an effective propagation parameter:
 
-u(x) = c₀² / c(x)² = n(x)²   (vacuum limit: u = 1)
+\[
+u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2,\quad \text{vacuum limit: } u = 1
+\]
 
 This parameter is treated as an effective descriptor inferred observationally and used to organize propagation behavior in structured environments.
 
----
+<hr>
 
-## Cite this work
+## Cite
 
-Citation guidance is maintained in the repository README and release tags:  
+Citation guidance and versioned releases are maintained in the repository:  
 https://github.com/Kneedeep2005/UETC
