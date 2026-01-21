@@ -46,9 +46,10 @@ UETC is an independent, first-principles framework for organizing and interpreti
 UETC uses an effective propagation parameter:
 
 $$
-u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2,\quad \text{vacuum limit: } u = 1
+u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2
 $$
 
+*Vacuum limit:* \( u = 1 \)
 
 This parameter is treated as an effective descriptor inferred observationally and used to organize propagation behavior in structured environments.
 
