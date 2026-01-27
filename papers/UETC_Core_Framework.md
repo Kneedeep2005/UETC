@@ -242,14 +242,9 @@ Unified Electromagnetic Toroidal Cosmology employs a single total energy functio
 
 The canonical UETC master energy functional is:
 
-$$
-U_{total} =
-\frac{1}{2}\varepsilon(u)E^2
-+ \frac{1}{2\mu(u)}B^2
-+ \frac{1}{2}\rho v^2
-+ \Pi_{aniso}
-+ P_{waves}
-$$
+The canonical UETC master energy functional is:
+
+\( U_{total} = \tfrac{1}{2}\varepsilon(u)E^2 + \tfrac{1}{2\mu(u)}B^2 + \tfrac{1}{2}\rho v^2 + \Pi_{aniso} + P_{waves} \)
 
 where:
 
