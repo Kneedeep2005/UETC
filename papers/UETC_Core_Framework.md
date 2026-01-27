@@ -1,7 +1,7 @@
 ---
 Title: Unified Electromagnetic Toroidal Cosmology (UETC) – Core Framework
-Version: 1.0
-Last updated: 2026-01-03
+Version: 1.1
+Last updated: 2026-01-26
 Status: Working framework (not peer reviewed)
 ---
 
@@ -151,7 +151,6 @@ Such geometries are well-established in classical electromagnetism and plasma ph
 
 A conceptual illustration of toroidal field geometry across scales is provided in Figure 1.
 
-
 ### 3.2 Energetic and Structural Stability
 
 Closed-loop field configurations naturally minimize losses associated with open boundaries and discontinuities.
@@ -231,13 +230,49 @@ Identifying such boundaries is considered a necessary part of evaluating the fra
 
 Within UETC, toroidal geometry is treated as a structural outcome, not a universal requirement.
 
-## 5. Falsifiability, Constraints, and Failure Modes
+## 5. Master Energy Functional
+
+Unified Electromagnetic Toroidal Cosmology employs a single total energy functional to describe how energy is partitioned within structured electromagnetic systems.
+
+The canonical UETC master energy functional is:
+
+\[
+U_{\text{total}} =
+\frac{1}{2}\,\varepsilon(u)\,E^2
++ \frac{1}{2\mu(u)}\,B^2
++ \frac{1}{2}\,\rho v^2
++ \Pi_{\text{aniso}}
++ P_{\text{waves}}
+\]
+
+where:
+
+- \(E\) and \(B\) are the electric and magnetic field magnitudes,
+- \(\varepsilon(u)\) and \(\mu(u)\) are effective permittivity and permeability functions dependent on the local propagation parameter \(u(x)\),
+- \(\rho\) is the effective mass or charge-carrier density,
+- \(v\) is the bulk flow velocity,
+- \(\Pi_{\text{aniso}}\) represents anisotropic pressure or stress arising from directional field gradients or structured confinement,
+- \(P_{\text{waves}}\) represents stored and propagating wave energy, including oscillatory electromagnetic and magnetohydrodynamic modes.
+
+### 5.1 Role of the Energy Functional
+
+This functional provides a unified energetic description across UETC systems, including laboratory electromagnetic systems, plasma environments, heliospheric boundaries, galactic structures, and compact astrophysical objects.
+
+Variations in \(u(x)\) modify effective field energy densities and propagation behavior without invoking exotic matter components or violations of conservation laws.
+
+### 5.2 Canonical Status
+
+The structure of this energy functional is considered canonical within UETC.
+
+Future work may refine or expand individual terms, but the overall functional form is treated as fixed.
+
+## 6. Falsifiability, Constraints, and Failure Modes
 
 This section outlines the conditions under which the UETC framework would be considered unsupported, incomplete, or inapplicable.
 
 Explicit identification of failure modes is treated as essential to the framework’s evaluation.
 
-### 5.1 Falsifiability Criteria
+### 6.1 Falsifiability Criteria
 
 UETC would be challenged or falsified if observations demonstrate that:
 
@@ -247,7 +282,7 @@ UETC would be challenged or falsified if observations demonstrate that:
 
 Failure in any of these areas would require revision or abandonment of core assumptions.
 
-### 5.2 Structural Constraints
+### 6.2 Structural Constraints
 
 The framework is constrained by existing, well-tested physical principles, including:
 
@@ -257,7 +292,7 @@ The framework is constrained by existing, well-tested physical principles, inclu
 
 Any formulation of UETC that violates these constraints is considered invalid.
 
-### 5.3 Observational Non-Support
+### 6.3 Observational Non-Support
 
 UETC does not require confirmation across all systems.
 
@@ -266,7 +301,7 @@ However, the framework would be weakened if:
 - predicted propagation trends are contradicted by high-confidence measurements,
 - alternative explanations account for observations more simply and consistently.
 
-### 5.4 Domain of Failure
+### 6.4 Domain of Failure
 
 UETC is expected to fail or lose relevance in domains where:
 - electromagnetic field structure plays a negligible role,
@@ -275,7 +310,7 @@ UETC is expected to fail or lose relevance in domains where:
 
 Such failures are not treated as contradictions, but as indicators of limited applicability.
 
-### 5.5 Role of Ongoing Refinement
+### 6.5 Role of Ongoing Refinement
 
 Because UETC is presented as a working framework, refinement, constraint tightening, and even partial invalidation are anticipated outcomes of further analysis.
 
@@ -284,9 +319,9 @@ Persistence of the framework depends on its ability to remain consistent with ob
 Not all systems are assumed to be toroidal.  
 Rather, toroidal configurations are emphasized where they arise naturally and demonstrably from field organization and stability considerations.
 
-## 6. Summary and Transition
+## 7. Summary and Transition
 
-This document has established the core structural elements of Unified Electromagnetic Toroidal Cosmology (UETC), including its definitions, assumptions, propagation parameterization, geometric emphasis, scaling interpretation, and explicit constraints.
+This document has established the core structural elements of Unified Electromagnetic Toroidal Cosmology (UETC), including its definitions, assumptions, propagation parameterization, geometric emphasis, scaling interpretation, energetic formalism, and explicit constraints.
 
 UETC is presented here as a framework for organizing and interpreting propagation and structural behavior in systems where electromagnetic field geometry and density variation play a significant role.
 
