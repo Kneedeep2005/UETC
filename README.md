@@ -1,4 +1,4 @@
-[![UETC Release](https://img.shields.io/badge/release-uetcref--v1.0-blue)](https://github.com/Kneedeepp2005/UETC/releases/tag/uetcref-v1.0)
+[![UETC Release](https://img.shields.io/badge/release-uetcref--v1.0-blue)](https://github.com/Kneedeep2005/UETC/releases/tag/uetcref-v1.0)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/status-active%20development-blue)](#)
 
@@ -9,6 +9,13 @@ Canonical technical reference for **Unified Electromagnetic Toroidal Cosmology (
 
 - **Book (conceptual entry point):** *The Shape of Everything* (Unified Field Press)
 - **Repository (technical backbone):** This GitHub repo, designed to answer “where is the paper?”, establish scope, authorship, and versioning, and provide a stable reference for technically literate readers.
+
+## Project Philosophy
+
+UETC is developed using a mechanism-first, observation-respecting approach.
+The framework prioritizes structural clarity, explicit constraints, and falsifiability
+over completeness or explanatory reach. Absence of a claim should not be interpreted
+as omission, but as deliberate scope control.
 
 ## Status and Scope
 
@@ -225,6 +232,9 @@ Planned next steps include:
 - refinement of figures for cross-scale consistency,
 - preparation of a standalone technical preprint if warranted.
 - expansion of observation-driven scaling analyses across astrophysical systems
+- **Future Work (deferred, non-canonical)**  
+  [`papers/UETC_Future_Work.md`](papers/UETC_Future_Work.md)
+
 
 ## How to Engage
 
@@ -244,7 +254,7 @@ Until a formal peer-reviewed paper is submitted, UETC should be cited using the 
 Gregory A. Beckman,  
 *Unified Electromagnetic Toroidal Cosmology (UETC): Canonical Technical Reference*,  
 GitHub repository, release **uetcref-v1.0**, 2026.  
-https://github.com/Kneedeepp2005/UETC
+https://github.com/Kneedeep2005/UETC
 
 ### Citing the Overview Document
 
@@ -305,3 +315,11 @@ If you are evaluating UETC critically, the most useful contributions in this pha
 - suggesting better organization and citations.
 
 Discussion should focus on technical clarity and falsifiable structure, not rhetoric.
+
+# Changelog
+
+## uetcref-v1.0 (2026-01-XX)
+- Initial canonical public release
+- Core framework established
+- Observational constraints scaffolded
+
