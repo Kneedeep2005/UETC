@@ -260,6 +260,7 @@ where:
 - \(\Pi_{aniso}\) represents anisotropic pressure or stress arising from directional field gradients or structured confinement,
 - \(P_{waves}\) represents stored and propagating wave energy, including oscillatory electromagnetic and magnetohydrodynamic modes.
 
+
 ### 5.1 Role of the Energy Functional
 
 This functional provides a unified energetic description across UETC systems, including laboratory electromagnetic systems, plasma environments, heliospheric boundaries, galactic structures, and compact astrophysical objects.
