@@ -318,7 +318,7 @@ Discussion should focus on technical clarity and falsifiable structure, not rhet
 
 # Changelog
 
-## uetcref-v1.0 (2026-01-XX)
+## uetcref-v1.0 (2026-01-27)
 - Initial canonical public release
 - Core framework established
 - Observational constraints scaffolded
