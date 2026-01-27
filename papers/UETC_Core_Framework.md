@@ -82,9 +82,9 @@ A central quantity used throughout the UETC framework is the dimensionless propa
 
 The parameter \( u(x) \) is defined as:
 
-\[
+$$
 u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2
-\]
+$$
 
 where:
 - \( c_0 \) is the reference propagation speed in the vacuum-limit case,
@@ -175,6 +175,12 @@ The geometry itself does not introduce new physics but provides a structural con
 
 ### 3.4 Neutral Structural Role
 
+Within UETC, toroidal field geometry is treated as a structurally neutral outcome rather than an imposed requirement.
+
+The framework does not assume that all systems must be toroidal, nor that toroidal configurations are uniquely privileged. Instead, such geometries are emphasized where they arise naturally from stability, continuity, and energetic considerations within electromagnetic field organization.
+
+Toroidal structures are therefore interpreted as *context-dependent solutions* to organizational constraints, not as universal features. Where conditions do not support closed-loop field formation, UETC makes no claim that toroidal geometry should appear.
+
 ## 4. Scaling and Cross-Scale Consistency
 
 UETC is motivated in part by the observation that similar structural patterns recur across a wide range of physical scales. This section clarifies how scaling is treated within the framework.
@@ -236,14 +242,15 @@ Unified Electromagnetic Toroidal Cosmology employs a single total energy functio
 
 The canonical UETC master energy functional is:
 
-\[
-U_{\text{total}} =
-\frac{1}{2}\,\varepsilon(u)\,E^2
-+ \frac{1}{2\mu(u)}\,B^2
-+ \frac{1}{2}\,\rho v^2
-+ \Pi_{\text{aniso}}
-+ P_{\text{waves}}
-\]
+$$
+U_{total} =
+\frac{1}{2}\varepsilon(u)E^2
++ \frac{1}{2\mu(u)}B^2
++ \frac{1}{2}\rho v^2
++ \Pi_{aniso}
++ P_{waves}
+$$
+
 
 where:
 
