@@ -157,7 +157,49 @@ This repo is the technical reference.
 
 ## Versioning and Change Control
 
-This repo uses two related version tracks:
+The Unified Electromagnetic Toroidal Cosmology (UETC) repository follows an explicit versioning and change-control policy to preserve internal consistency and prevent untracked conceptual drift.
+
+Version numbers reflect **structural significance**, not publication status.
+
+### Version Numbering
+
+UETC uses a semantic-style versioning scheme:
+
+- **Major versions (X.0)**  
+  Reserved for changes that modify core definitions, foundational assumptions, or primary framework parameters (for example, redefining the propagation parameter \(u(x)\) or altering the role of toroidal geometry).
+
+- **Minor versions (X.Y)**  
+  Used for additions or clarifications that extend the framework without altering its foundational structure.  
+  Examples include:
+  - adding new observational constraint categories,
+  - introducing a canonical energy functional,
+  - expanding explanatory text or figures.
+
+- **Patch revisions (X.Y.Z)**  
+  Used for non-structural changes such as:
+  - typographical corrections,
+  - formatting improvements,
+  - citation updates,
+  - wording clarifications that do not affect meaning.
+
+### Canonical Content
+
+Material designated as *canonical* (for example, core definitions, primary parameters, or master equations) may be expanded or clarified in later versions, but is not redefined without a corresponding major version change.
+
+### Scope Discipline
+
+The GitHub repository is intended to document the **framework structure and constraints**, not to serve as a complete mathematical derivation or finalized theory.
+
+Speculative extensions, open questions, and future research directions are tracked separately and do not modify the current canonical framework unless explicitly promoted via a versioned update.
+
+### Change Transparency
+
+All substantive changes should be reflected in:
+- the repository version number,
+- commit history,
+- and, where appropriate, section-level revision notes.
+
+This policy exists to ensure that UETC remains internally consistent, reviewable, and traceable over time.
 
 ### 1) Repository document versions
 - `UETC_Overview_vX.Y.pdf` increments when the PDF is revised.
