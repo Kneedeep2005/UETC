@@ -14,6 +14,12 @@ published observational data.
 
 ## Constraint Categories
 
+- **Black Holes**  
+  [`black_holes/`](black_holes/)  
+  Observation-driven constraints derived from compact-object systems, including
+  growth-time limits, electromagnetic domain scaling, and disk–jet behavior,
+  treated using published measurements and standard baseline assumptions.
+
 - **Galaxies**  
   [`galaxies/`](galaxies/)  
   Galactic-scale electromagnetic structure, rotation behavior, and large-scale
