@@ -13,17 +13,16 @@ It is provided as a public reference for readers seeking a compact, formal expre
 ## Master Energy Functional (Canonical)
 
 $$
-U_{\text{total}} \;=\;
+\begin{aligned}
+U_{\text{total}} \;=\;&
 \frac{1}{2}\,\varepsilon(u)\,E^2
-\;+\;
-\frac{1}{2\,\mu(u)}\,B^2
-\;+\;
-\frac{1}{2}\,\rho\,v^2
-\;+\;
-\Pi_{\text{aniso}}
-\;+\;
-P_{\text{waves}}
+\;+\; \frac{1}{2\,\mu(u)}\,B^2
+\;+\; \frac{1}{2}\,\rho\,v^2 \\
+&+\; \Pi_{\text{aniso}}
+\;+\; P_{\text{waves}}
+\end{aligned}
 $$
+
 
 ## Term Definitions
 
