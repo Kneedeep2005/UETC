@@ -251,16 +251,14 @@ U_{total} =
 + P_{waves}
 $$
 
-
 where:
 
 - \(E\) and \(B\) are the electric and magnetic field magnitudes,
 - \(\varepsilon(u)\) and \(\mu(u)\) are effective permittivity and permeability functions dependent on the local propagation parameter \(u(x)\),
 - \(\rho\) is the effective mass or charge-carrier density,
 - \(v\) is the bulk flow velocity,
-- \(\Pi_{\text{aniso}}\) represents anisotropic pressure or stress arising from directional field gradients or structured confinement,
-- \(P_{\text{waves}}\) represents stored and propagating wave energy, including oscillatory electromagnetic and magnetohydrodynamic modes.
-
+- \(\Pi_{aniso}\) represents anisotropic pressure or stress arising from directional field gradients or structured confinement,
+- \(P_{waves}\) represents stored and propagating wave energy, including oscillatory electromagnetic and magnetohydrodynamic modes.
 
 ### 5.1 Role of the Energy Functional
 
