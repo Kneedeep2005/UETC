@@ -126,13 +126,14 @@ $$
 \mathcal{U} \sim \mathcal{G} \otimes u(x) \otimes \mathcal{E}
 $$
 
-where:
+Where: 
 
-- \( \mathcal{G} \) represents geometric organization,
-- \( u(x) \) is the effective propagation parameter,
-- \( \mathcal{E} \) denotes electromagnetic energy flow.
+- \\( \mathcal{G} \\) represents geometric organization,
+- \\( u(x) \\) is the effective propagation parameter,
+- \\( \mathcal{E} \\) denotes electromagnetic energy flow.
 
-The symbol \( \otimes \) indicates structural coupling rather than a specific mathematical operator.
+The symbol \\( \otimes \\) indicates structural coupling rather than a specific mathematical operator.
+
 
 ---
 
