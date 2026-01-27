@@ -242,8 +242,6 @@ Unified Electromagnetic Toroidal Cosmology employs a single total energy functio
 
 The canonical UETC master energy functional is:
 
-The canonical UETC master energy functional is:
-
 \( U_{total} = \tfrac{1}{2}\varepsilon(u)E^2 + \tfrac{1}{2\mu(u)}B^2 + \tfrac{1}{2}\rho v^2 + \Pi_{aniso} + P_{waves} \)
 
 where:
@@ -254,7 +252,6 @@ where:
 - \(v\) is the bulk flow velocity,
 - \(\Pi_{aniso}\) represents anisotropic pressure or stress arising from directional field gradients or structured confinement,
 - \(P_{waves}\) represents stored and propagating wave energy, including oscillatory electromagnetic and magnetohydrodynamic modes.
-
 
 ### 5.1 Role of the Energy Functional
 
