@@ -45,11 +45,8 @@ The emphasis here is on **structure, scaling, and mechanisms**, with clear bound
 
 ## Core Definition
 
-UETC uses an effective propagation framework with:
-
-\[
-u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2,\quad \text{vacuum limit: } u=1
-\]
+UETC uses an effective propagation framework with  
+\( u(x) = \frac{c_0^2}{c(x)^2} = n(x)^2 \), with vacuum-limit reference \( u = 1 \).
 
 Where:
 - \( c_0 \) is the vacuum-limit reference speed,
@@ -315,6 +312,9 @@ If you are evaluating UETC critically, the most useful contributions in this pha
 - suggesting better organization and citations.
 
 Discussion should focus on technical clarity and falsifiable structure, not rhetoric.
+
+> Note: GitHub Markdown does not render display equations; canonical equations are rendered inline or in the PDF overview.
+
 
 # Changelog
 
