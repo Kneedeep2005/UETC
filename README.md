@@ -45,22 +45,24 @@ The emphasis here is on **structure, scaling, and mechanisms**, with clear bound
 
 ## Core Definition
 
-UETC uses an effective propagation framework with  
-\\[
-U_{\text{total}}=
-\frac{1}{2}\varepsilon(u)E^2+
-\frac{B^2}{2\mu(u)}+
-\frac{1}{2}\rho v^2+
-\Pi_{\text{aniso}}+
+UETC uses an effective propagation framework with the master energy functional:
+
+$$
+U_{\text{total}} =
+\frac{1}{2}\varepsilon(u)E^2 +
+\frac{B^2}{2\mu(u)} +
+\frac{1}{2}\rho v^2 +
+\Pi_{\text{aniso}} +
 P_{\text{waves}}
-\\]
-,with vacuum-limit reference \( u = 1 \).
+$$
+
+with vacuum-limit reference $u = 1$.
 
 Where:
-- \( c_0 \) is the vacuum-limit reference speed,
-- \( c(x) \) is an effective local propagation speed,
-- \( n(x) \) is an effective refractive index,
-- \( u(x) \) is a density/medium-coupled propagation parameter inferred observationally.
+- $c_0$ is the vacuum-limit reference speed,
+- $c(x)$ is an effective local propagation speed,
+- $n(x)$ is an effective refractive index,
+- $u(x)$ is a density or medium-coupled propagation parameter inferred observationally.
 
 This parameter is an effective descriptor inferred from observation and does not imply modification of fundamental constants.
 
