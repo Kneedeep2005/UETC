@@ -83,3 +83,10 @@ This document intentionally avoids embedding cosmological claims within abstract
 Its purpose is to clarify **what kinds of toroidal geometries are known to be stable and minimal** in well-defined mathematical settings, thereby informing structural interpretations elsewhere in the framework.
 
 Further mathematical development or physical specialization is deferred until observational motivation warrants it.
+
+In UETC, Clifford tori are not used to assert a universal scaling law or a fixed geometric realization. Instead, they provide a reference framework for understanding how closed-loop toroidal systems naturally admit distinct inner and outer effective area boundaries.
+
+The utility of this geometry lies in clarifying how different physical regimes may select their own characteristic scales. Each system defines an effective toroidal domain whose size and thickness are determined observationally, not imposed a priori. The Clifford torus serves as a clean geometric analogue that illustrates how area scaling can remain proportional to a squared length scale while accommodating layered or shell-like structure.
+
+Under this view, scaling relations are developed on a case-by-case basis. The geometry constrains how scaling behaves once an effective domain is identified, without fixing the absolute scale or requiring a single global description.
+
