@@ -46,14 +46,14 @@ The emphasis here is on **structure, scaling, and mechanisms**, with clear bound
 ## Core Definition
 
 UETC uses an effective propagation framework with  
-\[
+\\[
 U_{\text{total}}=
 \frac{1}{2}\varepsilon(u)E^2+
 \frac{B^2}{2\mu(u)}+
 \frac{1}{2}\rho v^2+
 \Pi_{\text{aniso}}+
 P_{\text{waves}}
-\]
+\\]
 ,with vacuum-limit reference \( u = 1 \).
 
 Where:
