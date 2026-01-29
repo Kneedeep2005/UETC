@@ -13,6 +13,8 @@ Potential topics tracked here include, but are not limited to:
 - correlations between electromagnetic structure and rotation behavior,
 - propagation effects associated with extended galactic environments,
 - observational limits on density-layering or refractive behavior at galactic scales.
+- **DES / DECam Late-Time Structure Measurements**  
+  Late-time galaxy clustering and weak-lensing constraints from the Dark Energy Survey, treated as a boundary condition on effective propagation and structure-based interpretations.
 
 At this stage, no claims are asserted and no resolutions are proposed.
 Entries in this directory are intended to remain model-agnostic, revision-safe,
