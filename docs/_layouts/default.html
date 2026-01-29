@@ -56,22 +56,19 @@
     </footer>
 
     <!-- MathJax: single config + load at end for reliable rendering -->
-    <script>
-      window.MathJax = {
-        tex: {
-          inlineMath: [['\\(','\\)']],
-          displayMath: [['\\[','\\]']]
-          },
-        options: {
-          skipHtmlTags: ['script','noscript','style','textarea','pre','code']
-        },
-        startup: {
-          typeset: true
-        }
-      };
-    </script>
-    <script id="MathJax-script" async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+   <script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$', '$$'], ['\\[', '\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
   </body>
 </html>
