@@ -16,23 +16,23 @@ The idea is to treat certain propagation-linked inference distortions as potenti
 
 We define a dimensionless gradient-exposure variable:
 
-\[
+$$
 \chi \equiv \int_{\mathrm{LOS}} \left| \nabla \ln \rho \right| \, ds
-\]
+$$
 
 where:
-- \(\rho\) is an effective medium or plasma-linked density proxy (context-dependent),
-- \(ds\) is a differential path-length element along the line of sight,
-- \(|\nabla \ln \rho|\) emphasizes **relative** density structure rather than absolute scaling.
+- $\rho$ is an effective medium or plasma-linked density proxy (context-dependent),
+- $ds$ is a differential path-length element along the line of sight,
+- $\left|\nabla \ln \rho\right|$ emphasizes **relative** density structure rather than absolute scaling.
 
 ## Saturating response law
 
 We use a saturating response:
 
-\[
+$$
 u(\chi) = 1 + A\left(1 - e^{-\chi/\chi_0}\right),
 \qquad u \rightarrow 1 \;\; \text{in vacuum}
-\]
+$$
 
 This form is intentionally minimal and chosen for its constraints:
 
@@ -45,9 +45,9 @@ This form is intentionally minimal and chosen for its constraints:
 
 UETC uses the effective propagation modifier:
 
-\[
+$$
 u(x)=\frac{c_0^2}{c(x)^2}=n(x)^2
-\]
+$$
 
 The \(\chi\)-based form above is a **candidate organizing variable** for how \(u\) might respond to cumulative structured environments along a path, without implying changes to fundamental constants.
 
