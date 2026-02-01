@@ -51,6 +51,21 @@ $$
 
 The \(\chi\)-based form above is a **candidate organizing variable** for how \(u\) might respond to cumulative structured environments along a path, without implying changes to fundamental constants.
 
+## Illustrative application (galactic-scale)
+
+As an illustrative, non-fitted example, this hypothesis is applied at the
+galactic scale in:
+
+- **NGC 2403: Normalized-Radius Overlay on Conceptual u(x)**  
+  `ngc2403_normalized_overlay.md`
+
+That entry presents a qualitative shape comparison between a bounded u(x)
+response and the observed NGC 2403 rotation curve using shared normalized-radius
+coordinates.
+
+The purpose of the example is to assess **structural compatibility**, not to
+demonstrate agreement, derive parameters, or assert explanatory completeness.
+
 ## Explicit non-claims
 
 This entry does **not** claim:
