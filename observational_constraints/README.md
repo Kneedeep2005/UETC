@@ -32,8 +32,8 @@ published observational data.
 
 - **Cosmic Microwave Background (CMB)**  
   [`cmb/`](cmb/)  
-  High-precision observational constraints that any structural or propagation-based
-  framework must respect.
+  High-precision observational constraints that any structural or
+  propagation-based framework must respect.
 
 - **Intergalactic Medium (IGM)**  
   [`intergalactic_medium/`](intergalactic_medium/)  
@@ -42,8 +42,9 @@ published observational data.
 
 ## Status
 
-Most sections currently serve as **placeholders** to preserve scope and intent.
-Content will be added incrementally as analyses are formalized and documented.
+Most sections currently serve as **placeholders** to preserve scope and intent,
+with selected categories partially populated. Content will be added incrementally
+as analyses are formalized and documented.
 
 The presence of a category does not imply unresolved tension or proposed revision;
 it indicates an observational domain that constrains the framework.
