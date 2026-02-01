@@ -12,12 +12,26 @@ Potential topics tracked here include, but are not limited to:
 - large-scale magnetic field morphology in spiral and irregular galaxies,
 - correlations between electromagnetic structure and rotation behavior,
 - propagation effects associated with extended galactic environments,
-- observational limits on density-layering or refractive behavior at galactic scales.
-- **DES / DECam Late-Time Structure Measurements**  
-  Late-time galaxy clustering and weak-lensing constraints from the Dark Energy Survey, treated as a boundary condition on effective propagation and structure-based interpretations.
+- observational limits on density-layering or refractive behavior at galactic scales,
+- **DES / DECam late-time structure measurements**, treated as boundary conditions
+  on effective propagation and structure-based interpretations.
+
+## Current entries
+
+- **Density-Gradient–Based Inference Scaler (Working Hypothesis)**  
+  `density_gradient_inference_scaler.md`  
+  A minimal, bounded, dimensionless inference-scaling law motivated by cumulative
+  exposure to density gradients along photon paths. Recorded as a testable
+  organizing hypothesis, not a precision fit or resolved explanation.
+
+- **NGC 2403: Normalized-Radius Overlay on Conceptual u(x)**  
+  `ngc2403_normalized_overlay.md`  
+  An illustrative, non-fitted shape comparison between a conceptual u(x) response
+  and the observed NGC 2403 rotation curve using shared normalized-radius
+  coordinates. Intended to motivate broader, falsifiable tests.
 
 At this stage, no claims are asserted and no resolutions are proposed.
-Entries in this directory are intended to remain model-agnostic, revision-safe,
+All entries are intended to remain model-agnostic, revision-safe,
 and grounded in published observational data.
 
-**Status:** Placeholder (tracked, not yet developed)
+**Status:** Partially populated (working hypotheses and illustrative constraints)
