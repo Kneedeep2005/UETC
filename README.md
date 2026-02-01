@@ -1,4 +1,4 @@
-[![UETC Release](https://img.shields.io/badge/release-uetcref--v1.1-blue)](https://github.com/Kneedeep2005/UETC/releases/tag/uetcref-v1.1)
+[![UETC Release](https://img.shields.io/badge/release-uetcref--v1.2-blue)](https://github.com/Kneedeep2005/UETC/releases/tag/uetcref-v1.2)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](https://creativecommons.org/licenses/by/4.0/)
 [![Status](https://img.shields.io/badge/status-active%20development-blue)](#)
 
@@ -150,6 +150,12 @@ https://github.com/Kneedeep2005/UETC
 
 
 # Changelog
+
+## uetcref-v1.2 (2026-02-01)
+- Added galactic-scale observational constraints category.
+- Added density-gradient–based inference scaler (working hypothesis).
+- Added illustrative normalized-radius galaxy overlay (NGC 2403).
+- Updated observational-constraints indices to reflect partial population.
 
 ## uetcref-v1.1 (2026-01-28)
 - Added DES / DECam observational constraint.
