@@ -25,6 +25,8 @@ File naming uses lowercase with underscores, for example:
 - `toroidal_scales.png`
 - `heliosphere_structure.png`
 - `galaxy_em_flows.png`
+- `ngc2403_overlay_normalized_u.png` — NGC 2403 rotation curve overlay on conceptual u(x) using normalized radius (illustrative, non-fitted).
+
 
 ## Captions
 
