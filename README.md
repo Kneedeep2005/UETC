@@ -127,6 +127,14 @@ revision-safe, and suitable as empirical anchors for future testing.
 - **TON 618 (Ultramassive Black Hole)**  
   An extreme-mass black hole treated as an upper-bound scaling and structural constraint, relevant for future comparative lensing and propagation studies without assuming exact geometric realization.
 
+#### Galaxies
+
+  * Density-Gradient–Based Inference Scaler (Working Hypothesis)  
+  `observational_constraints/galaxies/density_gradient_inference_scaler.md`
+
+  * NGC 2403: Normalized-Radius Overlay on Conceptual u(x) (Working Hypothesis)  
+  `observational_constraints/galaxies/ngc2403_normalized_overlay.md`
+
 ## Relationship to *The Shape of Everything*
 
 The book is the narrative, conceptual entry point.
