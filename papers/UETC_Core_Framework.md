@@ -236,6 +236,10 @@ Identifying such boundaries is considered a necessary part of evaluating the fra
 
 Within UETC, toroidal geometry is treated as a structural outcome, not a universal requirement.
 
+### 4.6 Working hypothesis pointer
+- Density-Gradient–Based Inference Scaler (Working Hypothesis):  
+  `observational_constraints/galaxies/density_gradient_inference_scaler.md`
+
 ## 5. Master Energy Functional
 
 Unified Electromagnetic Toroidal Cosmology employs a single total energy functional to describe how energy is partitioned within structured electromagnetic systems.
