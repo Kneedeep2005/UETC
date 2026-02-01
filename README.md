@@ -129,11 +129,10 @@ revision-safe, and suitable as empirical anchors for future testing.
 
 #### Galaxies
 
-  * Density-Gradient–Based Inference Scaler (Working Hypothesis)  
-  `observational_constraints/galaxies/density_gradient_inference_scaler.md`
+  * [Density-Gradient–Based Inference Scaler (Working Hypothesis)](observational_constraints/galaxies/density_gradient_inference_scaler.md)
 
-  * NGC 2403: Normalized-Radius Overlay on Conceptual u(x) (Working Hypothesis)  
-  `observational_constraints/galaxies/ngc2403_normalized_overlay.md`
+  * [NGC 2403: Normalized-Radius Overlay on Conceptual u(x) (Working Hypothesis)](observational_constraints/galaxies/ngc2403_normalized_overlay.md)
+
 
 ## Relationship to *The Shape of Everything*
 
