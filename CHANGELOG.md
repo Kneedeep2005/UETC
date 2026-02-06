@@ -12,8 +12,8 @@ See the README for the full versioning and change-control policy.
 
 ### Added
 - Galactic-scale observational constraints category populated under `observational_constraints/galaxies/`.
-- Density-gradient–based inference scaler introduced as a bounded, dimensionless **working hypothesis**.
-- Illustrative normalized-radius galaxy overlay using NGC 2403, presented as a non-fitted shape comparison.
+- Archived exploratory: density-gradient inference scaler (global rotation curves).
+- Archived exploratory: illustrative NGC 2403 overlay.
 - Updated observational-constraints indices to reflect partial population of the Galaxies category.
 
 ### Notes
