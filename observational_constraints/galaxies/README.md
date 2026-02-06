@@ -18,13 +18,13 @@ Potential topics tracked here include, but are not limited to:
 
 ## Current entries
 
-- **Density-Gradient–Based Inference Scaler (Working Hypothesis)**  
+- **Exploratory: Density-Gradient–Based Inference Scaler (Working Hypothesis)**  
   `density_gradient_inference_scaler.md`  
   A minimal, bounded, dimensionless inference-scaling law motivated by cumulative
   exposure to density gradients along photon paths. Recorded as a testable
   organizing hypothesis, not a precision fit or resolved explanation.
 
-- **NGC 2403: Normalized-Radius Overlay on Conceptual u(x)**  
+- **Exploratory: NGC 2403: Normalized-Radius Overlay on Conceptual u(x)**  
   `ngc2403_normalized_overlay.md`  
   An illustrative, non-fitted shape comparison between a conceptual u(x) response
   and the observed NGC 2403 rotation curve using shared normalized-radius
