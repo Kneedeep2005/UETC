@@ -19,6 +19,10 @@ as omission, but as deliberate scope control.
 
 ## Status and Scope
 
+UETC is an interpretive, mechanism-first framework. It does not claim to replace ΛCDM, General Relativity, or established particle physics. Current exploratory work related to galactic dynamics is limited to inner-galaxy inference and structure (roughly the central few kpc), where baryonic modeling uncertainty and complex plasma, field, and non-circular motion effects are known to be relevant. UETC does not claim to explain outer flat rotation curves or cluster-scale strong lensing via electromagnetic or propagation modifiers.
+
+Prior exploratory testing considered whether a global “scaler” style propagation modifier could materially reduce dark-matter requirements across full rotation curves. That broad/global interpretation is archived and retained only as a record of exploration, not as an active claim.
+
 This repository is a **working framework**, not a finalized theory.
 
 Observational reinterpretation here means reanalyzing existing measurements under 
