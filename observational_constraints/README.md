@@ -12,6 +12,19 @@ propagation behavior place meaningful constraints on UETC.
 All entries are intended to remain model-agnostic, revision-safe, and grounded in
 published observational data.
 
+> **Scope alignment note:**  
+> Within the current UETC repository scope, observational-constraint sections
+> are treated strictly as **boundary conditions on exploratory interpretation**.
+> UETC does not claim to replace ΛCDM, dark matter, dark energy, or established
+> relativistic/gravitational physics.  
+>  
+> Any discussion of galactic-scale behavior is limited to **inner-galaxy
+> inference and structure** (central few kiloparsecs), where baryonic modeling
+> uncertainty, plasma effects, and non-circular motions are already known to be
+> relevant. Outer flat rotation curves, cluster-scale lensing, and global
+> cosmological dynamics remain outside the framework’s current explanatory
+> scope.
+
 ## Constraint Categories
 
 - **Black Holes**  
