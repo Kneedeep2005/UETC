@@ -1,3 +1,19 @@
+> **Status: Archived Exploratory Illustration (Non-active)**
+>
+> This document records an early qualitative comparison between a bounded conceptual  
+> propagation modifier \(u(x)\) and the normalized rotation-curve structure of NGC 2403.
+>
+> - This comparison is **illustrative only** and does **not** constitute a dynamical fit,
+>   explanatory model, or evidence for modifying dark-matter requirements.
+> - The original exploratory intent was limited to **inner-galaxy inference and structure**
+>   (central few kiloparsecs), where baryonic modeling uncertainty, plasma effects,
+>   and non-circular motions are known to be relevant.
+> - The comparison is **not applicable** to outer flat rotation curves or
+>   cluster-scale gravitational lensing, which remain outside UETC’s current scope.
+>
+> This file is preserved for **transparency and historical continuity** within the
+> development of the UETC framework.
+
 # NGC 2403: Normalized-Radius Overlay on Conceptual u(x) (Working Hypothesis)
 
 ## Status and intent
