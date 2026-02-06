@@ -17,6 +17,13 @@ Rather than introducing new particles, forces, or speculative entities, UETC emp
 
 The framework is not proposed as a replacement for existing theories, nor as a finalized cosmological model. Its intent is to provide a coherent organizational perspective that connects laboratory-scale, heliospheric, and astrophysical observations under a common structural language while remaining open to constraint, refinement, or falsification.
 
+Within the current repository scope, UETC does not attempt to replace
+ΛCDM, dark matter, dark energy, or relativistic gravitational physics.
+Any discussion of galactic dynamics is limited to **inner-galaxy
+inference and structure** (central few kiloparsecs), while outer
+rotation curves, cluster-scale lensing, and global cosmological
+expansion remain outside the framework’s present explanatory domain.
+
 This document serves as a technical overview and reference point for the UETC repository and associated materials.
 
 ## Outline
@@ -102,6 +109,12 @@ $$
 
 where \( c_0 \) represents the reference propagation speed in the vacuum limit, \( c(x) \) is the effective local propagation speed inferred from observation, and \( n(x) \) is an effective refractive index. By definition, the vacuum limit corresponds to \( u = 1 \).
 
+This parameterization is intended as an **effective observational
+descriptor** of propagation behavior in structured environments and
+does not imply variation of fundamental constants, violation of Lorentz
+invariance, or replacement of gravitational dynamics on galactic or
+cosmological scales.
+
 This formulation does not assert that the fundamental speed limit of information transfer is violated. Instead, it provides a compact way to describe how observed propagation behavior reflects environmental structure.
 
 ---
@@ -114,7 +127,12 @@ A defining structural emphasis of the UETC framework is the role of closed-loop 
 
 ## 5. Cross-Scale Organization
 
-One of the motivating observations behind UETC is the recurrence of similar organizational patterns across a wide range of physical scales. Closed-loop structures, layered boundaries, and geometry-dependent propagation behavior appear in systems ranging from laboratory plasmas to astrophysical environments.
+One motivating observation behind UETC is the recurrence of similar
+organizational patterns across a wide range of physical scales.
+This structural similarity does not imply identical governing dynamics
+or universal explanatory power, but suggests that certain geometric
+configurations may arise under broad classes of conditions.
+
 
 ---
 
