@@ -2,6 +2,12 @@
 
 **Status:** Observational constraint  
 **Scope:** Late-time galaxy clustering and weak gravitational lensing  
+> **Scope clarification:**  
+> Within the current UETC repository scope, DES / DECam results are treated
+> strictly as **late-time observational boundary conditions**.  
+> UETC does not claim to replace ΛCDM, dark energy, or weak-lensing
+> phenomenology, and any propagation- or structure-based interpretation
+> remains exploratory and sub-dominant to the standard cosmological model.
 **Claim level:** Boundary condition / consistency check  
 
 ---
@@ -42,7 +48,10 @@ They instead define a regime in which effective descriptions of propagation and 
 
 ## Interpretation Within the UETC Framework
 
-Within Unified Electromagnetic Toroidal Cosmology (UETC), parameters commonly labeled as “dark energy” are interpreted as **effective descriptors** of large-scale electromagnetic structure and propagation behavior, rather than as fundamental substances or new physical fields.
+Within exploratory UETC discussion, parameters commonly labeled as “dark
+energy” may be viewed as **effective descriptors of large-scale propagation
+or structural behavior**, without asserting replacement of ΛCDM components
+or introducing new fundamental substances or fields.
 
 Under this interpretation:
 - late-time deviations in lensing or clustering amplitude are not treated as anomalies requiring new particles or forces,
