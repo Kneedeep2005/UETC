@@ -1,8 +1,26 @@
-# Density-Gradient–Based Inference Scaler (Working Hypothesis)
+> **Status: Archived Exploratory Hypothesis (Non-active)**
+>
+> This document records an early exploratory proposal for a bounded
+> density-gradient–linked inference modifier \(u(\chi)\) within the
+> developmental history of the UETC framework.
+>
+> - This hypothesis is **not an active claim** and is preserved only for
+>   transparency and historical continuity.
+> - The original exploratory intent was limited to **inner-galaxy inference
+>   and structure** (central few kiloparsecs), where baryonic modeling
+>   uncertainty, plasma effects, and non-circular motions are known to be
+>   relevant.
+> - It is **not applicable** to outer flat rotation curves, cluster-scale
+>   gravitational lensing, or global dark-matter replacement.
+>
+> The material below is retained as a record of structured exploration,
+> subject to revision, constraint, or rejection.
+
+# Density-Gradient–Based Inference Scaler (Archived Exploratory Hypothesis)
 
 ## Status and intent
 
-This is a **working hypothesis**, recorded to support falsifiable tests and structured discussion.
+This is a **Archived Exploratory Hypothesis**, recorded to support falsifiable tests and structured discussion.
 
 It is **not** a precision fit, **not** unique, and **not** a claim of proof. The purpose is to propose a minimal, bounded response law that can be tested against observational inference behavior across systems.
 
