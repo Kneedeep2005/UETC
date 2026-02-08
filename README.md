@@ -10,6 +10,25 @@ Canonical technical reference for **Unified Electromagnetic Toroidal Cosmology (
 - **Book (conceptual entry point):** *The Shape of Everything* (Unified Field Press)
 - **Repository (technical backbone):** This GitHub repo, designed to answer “where is the paper?”, establish scope, authorship, and versioning, and provide a stable reference for technically literate readers.
 
+## Relationship to *The Shape of Everything*
+
+*The Shape of Everything* is the conceptual and narrative entry point to UETC.
+
+This repository serves as the technical reference: definitions, structure, constraints,
+and observational framing. The book provides the broader physical intuition,
+historical context, visual synthesis, and cross-scale narrative that motivated
+the framework.
+
+Readers who want:
+- conceptual grounding before engaging the technical material,
+- extended discussion of physical intuition and geometry,
+- and a coherent narrative linking laboratory, heliospheric, and astrophysical scales
+
+may find the book a useful companion to this repository.
+
+This repository intentionally avoids reproducing long-form explanatory prose from
+the book and instead references it where appropriate.
+
 ## Project Philosophy
 
 UETC is developed using a mechanism-first, observation-respecting approach.
